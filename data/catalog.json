@@ -1,0 +1,2607 @@
+{
+  "snapshot_at": "2026-10-26T15:43:00.431Z",
+  "version": "2026-10-26",
+  "ANIMALS": [
+    {
+      "id": "chicken",
+      "name": "团团鸡",
+      "product": "鸡蛋",
+      "price": 80,
+      "sellPrice": 11,
+      "seconds": 600,
+      "xp": 2,
+      "unlock": 0,
+      "frame": 6,
+      "legacySellPrice": 6
+    },
+    {
+      "id": "cow",
+      "name": "奶糖牛",
+      "product": "鲜奶",
+      "price": 160,
+      "sellPrice": 30,
+      "seconds": 3600,
+      "xp": 5,
+      "unlock": 80,
+      "frame": 7,
+      "legacySellPrice": 14
+    },
+    {
+      "id": "sheep",
+      "name": "云朵羊",
+      "product": "羊毛",
+      "price": 200,
+      "sellPrice": 50,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 200,
+      "frame": 8,
+      "legacySellPrice": 22
+    },
+    {
+      "id": "huan_cat",
+      "name": "欢欢猫",
+      "product": "欢欢猫毛球",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 100,
+      "legacySellPrice": 10
+    },
+    {
+      "id": "gentle_swan",
+      "name": "正人君子鹅",
+      "product": "君子羽",
+      "price": 240,
+      "sellPrice": 54,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 240,
+      "frame": 103,
+      "legacySellPrice": 24
+    },
+    {
+      "id": "turbo_bull",
+      "name": "有挂牛",
+      "product": "闪电奶",
+      "price": 280,
+      "sellPrice": 24,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 300,
+      "frame": 104,
+      "legacySellPrice": 12
+    },
+    {
+      "id": "holy_deer",
+      "name": "神了鹿",
+      "product": "星光绒",
+      "price": 400,
+      "sellPrice": 90,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 500,
+      "frame": 105,
+      "legacySellPrice": 38
+    },
+    {
+      "id": "meme_chicken",
+      "name": "meme团子鸡",
+      "product": "迷因蛋",
+      "price": 180,
+      "sellPrice": 18,
+      "seconds": 1200,
+      "xp": 3,
+      "unlock": 180,
+      "frame": 107,
+      "legacySellPrice": 9
+    },
+    {
+      "id": "nsfw_sheep",
+      "name": "NSFW夜绒羊",
+      "product": "夜绒",
+      "price": 320,
+      "sellPrice": 74,
+      "seconds": 10800,
+      "xp": 9,
+      "unlock": 400,
+      "frame": 109,
+      "legacySellPrice": 32
+    },
+    {
+      "id": "linux_sheep",
+      "name": "L站欢聚羊",
+      "product": "欢聚绒",
+      "price": 360,
+      "sellPrice": 84,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 450,
+      "frame": 111,
+      "legacySellPrice": 35
+    },
+    {
+      "id": "llama",
+      "name": "Llama绒驼",
+      "product": "绒驼毛",
+      "price": 300,
+      "sellPrice": 70,
+      "seconds": 10800,
+      "xp": 8,
+      "unlock": 360,
+      "frame": 209,
+      "legacySellPrice": 30
+    },
+    {
+      "id": "huan_blushrabbit",
+      "name": "欢欢脸红兔",
+      "product": "欢欢绒团",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 330
+    },
+    {
+      "id": "dcoin_hamster",
+      "name": "D币仓鼠",
+      "product": "香蕉果仁",
+      "price": 80,
+      "sellPrice": 11,
+      "seconds": 600,
+      "xp": 2,
+      "unlock": 0,
+      "frame": 331
+    },
+    {
+      "id": "jiba_banana_slug",
+      "name": "几把大香蕉蛞蝓",
+      "product": "金蕉凝珠",
+      "price": 200,
+      "sellPrice": 50,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 200,
+      "frame": 332
+    },
+    {
+      "id": "naizi_peach_cow",
+      "name": "柰子蜜桃牛",
+      "product": "蜜桃鲜奶",
+      "price": 160,
+      "sellPrice": 30,
+      "seconds": 3600,
+      "xp": 5,
+      "unlock": 80,
+      "frame": 333
+    },
+    {
+      "id": "gentle_crane",
+      "name": "正人君子鹤",
+      "product": "君子长羽",
+      "price": 240,
+      "sellPrice": 54,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 240,
+      "frame": 334
+    },
+    {
+      "id": "turbo_cheetah",
+      "name": "有挂疾风豹",
+      "product": "疾风绒",
+      "price": 280,
+      "sellPrice": 24,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 300,
+      "frame": 335
+    },
+    {
+      "id": "holy_unicorn",
+      "name": "神了独角兽",
+      "product": "星辉鬃毛",
+      "price": 400,
+      "sellPrice": 90,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 500,
+      "frame": 336
+    },
+    {
+      "id": "mole_bat",
+      "name": "魔了月翼蝠",
+      "product": "夜翼绒",
+      "price": 320,
+      "sellPrice": 74,
+      "seconds": 10800,
+      "xp": 9,
+      "unlock": 400,
+      "frame": 337
+    },
+    {
+      "id": "deepseek_whale",
+      "name": "DeepSeek浮空鲸",
+      "product": "鲸梦泡泡",
+      "price": 160,
+      "sellPrice": 30,
+      "seconds": 3600,
+      "xp": 5,
+      "unlock": 80,
+      "frame": 338
+    },
+    {
+      "id": "gpt_knot_turtle",
+      "name": "GPT结绳龟",
+      "product": "结绳珠",
+      "price": 200,
+      "sellPrice": 50,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 200,
+      "frame": 339
+    },
+    {
+      "id": "claude_sunfox",
+      "name": "Claude暖阳狐",
+      "product": "暖阳绒",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 340
+    },
+    {
+      "id": "gemini_twinbird",
+      "name": "Gemini双星雀",
+      "product": "双星羽",
+      "price": 240,
+      "sellPrice": 54,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 240,
+      "frame": 341
+    },
+    {
+      "id": "qwen_cloudcat",
+      "name": "Qwen云团猫",
+      "product": "云团绒",
+      "price": 320,
+      "sellPrice": 74,
+      "seconds": 10800,
+      "xp": 9,
+      "unlock": 400,
+      "frame": 342
+    },
+    {
+      "id": "kimi_moonrabbit",
+      "name": "Kimi月芽兔",
+      "product": "月芽绒",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 343
+    },
+    {
+      "id": "glm_memoryelephant",
+      "name": "GLM记忆象",
+      "product": "记忆晶珠",
+      "price": 400,
+      "sellPrice": 90,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 500,
+      "frame": 344
+    },
+    {
+      "id": "grok_nightcrow",
+      "name": "Grok夜巡鸦",
+      "product": "夜巡羽",
+      "price": 240,
+      "sellPrice": 54,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 240,
+      "frame": 345
+    },
+    {
+      "id": "jev_balanceowl",
+      "name": "Jev天平鸮",
+      "product": "是非羽",
+      "price": 280,
+      "sellPrice": 24,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 300,
+      "frame": 346
+    },
+    {
+      "id": "muse_songlark",
+      "name": "Muse歌云雀",
+      "product": "旋律羽",
+      "price": 180,
+      "sellPrice": 18,
+      "seconds": 1200,
+      "xp": 3,
+      "unlock": 180,
+      "frame": 347
+    },
+    {
+      "id": "llama_packet_alpaca",
+      "name": "Llama背包驼",
+      "product": "背包绒",
+      "price": 300,
+      "sellPrice": 70,
+      "seconds": 10800,
+      "xp": 8,
+      "unlock": 360,
+      "frame": 348
+    },
+    {
+      "id": "linux_penguin",
+      "name": "L站企鹅",
+      "product": "社区软绒",
+      "price": 360,
+      "sellPrice": 84,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 450,
+      "frame": 349
+    },
+    {
+      "id": "nsfw_nightmoth",
+      "name": "NSFW夜帘蛾",
+      "product": "夜帘丝",
+      "price": 320,
+      "sellPrice": 74,
+      "seconds": 10800,
+      "xp": 9,
+      "unlock": 400,
+      "frame": 350
+    },
+    {
+      "id": "guess_raccoon",
+      "name": "猜词面罩浣熊",
+      "product": "谜题绒",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 351
+    },
+    {
+      "id": "lucky_goldkoi",
+      "name": "手气王锦鲤",
+      "product": "好运鳞",
+      "price": 400,
+      "sellPrice": 90,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 500,
+      "frame": 352
+    },
+    {
+      "id": "unlucky_greyduck",
+      "name": "手气亡灰鸭",
+      "product": "安慰软羽",
+      "price": 80,
+      "sellPrice": 11,
+      "seconds": 600,
+      "xp": 2,
+      "unlock": 0,
+      "frame": 353
+    },
+    {
+      "id": "waterchat_otter",
+      "name": "水群泡泡獭",
+      "product": "泡泡珠",
+      "price": 160,
+      "sellPrice": 30,
+      "seconds": 3600,
+      "xp": 5,
+      "unlock": 80,
+      "frame": 354
+    },
+    {
+      "id": "nightwatch_owl",
+      "name": "夜聊守望鸮",
+      "product": "守夜羽",
+      "price": 200,
+      "sellPrice": 50,
+      "seconds": 7200,
+      "xp": 7,
+      "unlock": 200,
+      "frame": 355
+    },
+    {
+      "id": "earlybird_rooster",
+      "name": "早安报晓鸡",
+      "product": "朝露蛋",
+      "price": 180,
+      "sellPrice": 18,
+      "seconds": 1200,
+      "xp": 3,
+      "unlock": 180,
+      "frame": 356
+    },
+    {
+      "id": "capy_capybara",
+      "name": "松弛水豚",
+      "product": "温泉绒",
+      "price": 160,
+      "sellPrice": 30,
+      "seconds": 3600,
+      "xp": 5,
+      "unlock": 80,
+      "frame": 357
+    },
+    {
+      "id": "malou_monkey",
+      "name": "吗喽抱橘猴",
+      "product": "砂糖橘",
+      "price": 120,
+      "sellPrice": 20,
+      "seconds": 1800,
+      "xp": 3,
+      "unlock": 100,
+      "frame": 358
+    },
+    {
+      "id": "xianyan_peacock",
+      "name": "显眼包孔雀",
+      "product": "显眼彩羽",
+      "price": 400,
+      "sellPrice": 90,
+      "seconds": 14400,
+      "xp": 10,
+      "unlock": 500,
+      "frame": 359
+    }
+  ],
+  "CROPS": [
+    {
+      "id": "carrot",
+      "name": "胡萝卜",
+      "seconds": 600,
+      "seedPrice": 3,
+      "sellPrice": 7,
+      "xp": 5,
+      "unlock": 0,
+      "frame": 4,
+      "legacySeconds": 60
+    },
+    {
+      "id": "cabbage",
+      "name": "包菜",
+      "seconds": 600,
+      "seedPrice": 5,
+      "sellPrice": 11,
+      "xp": 7,
+      "unlock": 20,
+      "frame": 5,
+      "legacySeconds": 120
+    },
+    {
+      "id": "wheat",
+      "name": "小麦",
+      "seconds": 600,
+      "seedPrice": 7,
+      "sellPrice": 16,
+      "xp": 9,
+      "unlock": 60,
+      "frame": 6,
+      "legacySeconds": 180
+    },
+    {
+      "id": "tomato",
+      "name": "番茄",
+      "seconds": 600,
+      "seedPrice": 10,
+      "sellPrice": 22,
+      "xp": 11,
+      "unlock": 120,
+      "frame": 7,
+      "legacySeconds": 240
+    },
+    {
+      "id": "corn",
+      "name": "玉米",
+      "seconds": 600,
+      "seedPrice": 13,
+      "sellPrice": 30,
+      "xp": 14,
+      "unlock": 220,
+      "frame": 8,
+      "legacySeconds": 360
+    },
+    {
+      "id": "pumpkin",
+      "name": "南瓜",
+      "seconds": 600,
+      "seedPrice": 18,
+      "sellPrice": 45,
+      "xp": 18,
+      "unlock": 360,
+      "frame": 9,
+      "legacySeconds": 600
+    },
+    {
+      "id": "jiba_banana",
+      "name": "几把巨蕉",
+      "seconds": 3600,
+      "seedPrice": 40,
+      "sellPrice": 80,
+      "xp": 25,
+      "unlock": 100,
+      "frame": 101,
+      "legacySeconds": 3600
+    },
+    {
+      "id": "naizi_peach",
+      "name": "柰子蜜桃",
+      "seconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 102,
+      "legacySeconds": 7200
+    },
+    {
+      "id": "mole_mushroom",
+      "name": "魔了菇",
+      "seconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 106,
+      "legacySeconds": 14400
+    },
+    {
+      "id": "meme_sunflower",
+      "name": "梗图葵",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 108,
+      "legacySeconds": 28800
+    },
+    {
+      "id": "linux_pumpkin",
+      "name": "L站南瓜",
+      "seconds": 43200,
+      "seedPrice": 160,
+      "sellPrice": 320,
+      "xp": 65,
+      "unlock": 480,
+      "frame": 110,
+      "legacySeconds": 43200
+    },
+    {
+      "id": "deepseek_rice",
+      "name": "DeepSeek鲸尾稻",
+      "seconds": 10800,
+      "seedPrice": 75,
+      "sellPrice": 150,
+      "xp": 35,
+      "unlock": 220,
+      "frame": 200,
+      "legacySeconds": 10800
+    },
+    {
+      "id": "claude_wheat",
+      "name": "Claude暖穗",
+      "seconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 201,
+      "legacySeconds": 14400
+    },
+    {
+      "id": "gpt_cabbage",
+      "name": "GPT结绳菜",
+      "seconds": 21600,
+      "seedPrice": 105,
+      "sellPrice": 210,
+      "xp": 45,
+      "unlock": 320,
+      "frame": 202,
+      "legacySeconds": 21600
+    },
+    {
+      "id": "gemini_berry",
+      "name": "Gemini双星莓",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 203,
+      "legacySeconds": 28800
+    },
+    {
+      "id": "qwen_cotton",
+      "name": "Qwen云棉",
+      "seconds": 43200,
+      "seedPrice": 150,
+      "sellPrice": 300,
+      "xp": 60,
+      "unlock": 420,
+      "frame": 204,
+      "legacySeconds": 43200
+    },
+    {
+      "id": "kimi_bean",
+      "name": "Kimi月芽豆",
+      "seconds": 21600,
+      "seedPrice": 105,
+      "sellPrice": 210,
+      "xp": 45,
+      "unlock": 320,
+      "frame": 205,
+      "legacySeconds": 21600
+    },
+    {
+      "id": "glm_bamboo",
+      "name": "GLM上下文竹",
+      "seconds": 43200,
+      "seedPrice": 160,
+      "sellPrice": 320,
+      "xp": 65,
+      "unlock": 480,
+      "frame": 206,
+      "legacySeconds": 43200
+    },
+    {
+      "id": "grok_eggplant",
+      "name": "Grok夜茄",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 207,
+      "legacySeconds": 28800
+    },
+    {
+      "id": "jev_pepper",
+      "name": "Jev是非椒",
+      "seconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 210,
+      "legacySeconds": 7200
+    },
+    {
+      "id": "huan_catmint",
+      "name": "欢欢猫薄荷",
+      "seconds": 600,
+      "legacySeconds": 120,
+      "seedPrice": 5,
+      "sellPrice": 11,
+      "xp": 7,
+      "unlock": 20,
+      "frame": 300
+    },
+    {
+      "id": "dcoin_banana",
+      "name": "D币金环蕉",
+      "seconds": 3600,
+      "legacySeconds": 3600,
+      "seedPrice": 40,
+      "sellPrice": 80,
+      "xp": 25,
+      "unlock": 100,
+      "frame": 301
+    },
+    {
+      "id": "gentle_lotus",
+      "name": "正人君子莲",
+      "seconds": 7200,
+      "legacySeconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 302
+    },
+    {
+      "id": "turbo_vine",
+      "name": "有挂齿轮藤",
+      "seconds": 10800,
+      "legacySeconds": 10800,
+      "seedPrice": 75,
+      "sellPrice": 150,
+      "xp": 35,
+      "unlock": 220,
+      "frame": 303
+    },
+    {
+      "id": "holy_star_rice",
+      "name": "神了星光稻",
+      "seconds": 14400,
+      "legacySeconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 304
+    },
+    {
+      "id": "shadow_nightberry",
+      "name": "魔了夜莓",
+      "seconds": 28800,
+      "legacySeconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 305
+    },
+    {
+      "id": "fiftytwo_cocoa",
+      "name": "52可可豆",
+      "seconds": 21600,
+      "legacySeconds": 21600,
+      "seedPrice": 105,
+      "sellPrice": 210,
+      "xp": 45,
+      "unlock": 320,
+      "frame": 306
+    },
+    {
+      "id": "guess_wordpea",
+      "name": "猜词字谜豆",
+      "seconds": 600,
+      "legacySeconds": 60,
+      "seedPrice": 3,
+      "sellPrice": 7,
+      "xp": 5,
+      "unlock": 0,
+      "frame": 307
+    },
+    {
+      "id": "yesno_pistachio",
+      "name": "是非开心果",
+      "seconds": 7200,
+      "legacySeconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 308
+    },
+    {
+      "id": "hint_lantern",
+      "name": "线索灯笼椒",
+      "seconds": 600,
+      "legacySeconds": 240,
+      "seedPrice": 10,
+      "sellPrice": 22,
+      "xp": 11,
+      "unlock": 120,
+      "frame": 309
+    },
+    {
+      "id": "winrate_clover",
+      "name": "胜率四叶草",
+      "seconds": 600,
+      "legacySeconds": 180,
+      "seedPrice": 7,
+      "sellPrice": 16,
+      "xp": 9,
+      "unlock": 60,
+      "frame": 310
+    },
+    {
+      "id": "queue_bambooshoot",
+      "name": "排队节节笋",
+      "seconds": 600,
+      "legacySeconds": 360,
+      "seedPrice": 13,
+      "sellPrice": 30,
+      "xp": 14,
+      "unlock": 220,
+      "frame": 311
+    },
+    {
+      "id": "lucky_dice_mushroom",
+      "name": "手气王骰子菇",
+      "seconds": 14400,
+      "legacySeconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 312
+    },
+    {
+      "id": "unlucky_bittermelon",
+      "name": "手气亡苦瓜",
+      "seconds": 28800,
+      "legacySeconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 313
+    },
+    {
+      "id": "waterchat_cattail",
+      "name": "水群蒲草",
+      "seconds": 600,
+      "legacySeconds": 600,
+      "seedPrice": 18,
+      "sellPrice": 45,
+      "xp": 18,
+      "unlock": 360,
+      "frame": 314
+    },
+    {
+      "id": "nightowl_coffee",
+      "name": "夜聊咖啡豆",
+      "seconds": 43200,
+      "legacySeconds": 43200,
+      "seedPrice": 160,
+      "sellPrice": 320,
+      "xp": 65,
+      "unlock": 480,
+      "frame": 315
+    },
+    {
+      "id": "earlybird_glory",
+      "name": "早安牵牛花",
+      "seconds": 600,
+      "legacySeconds": 240,
+      "seedPrice": 10,
+      "sellPrice": 22,
+      "xp": 11,
+      "unlock": 120,
+      "frame": 316
+    },
+    {
+      "id": "r2_cloudberry",
+      "name": "云盘云莓",
+      "seconds": 43200,
+      "legacySeconds": 43200,
+      "seedPrice": 150,
+      "sellPrice": 300,
+      "xp": 60,
+      "unlock": 420,
+      "frame": 317
+    },
+    {
+      "id": "d1_index_cactus",
+      "name": "索引仙人掌",
+      "seconds": 14400,
+      "legacySeconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 318
+    },
+    {
+      "id": "worker_clockflower",
+      "name": "打工时钟花",
+      "seconds": 14400,
+      "legacySeconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 319
+    },
+    {
+      "id": "jev_scale_bean",
+      "name": "Jev天平豆",
+      "seconds": 7200,
+      "legacySeconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 320
+    },
+    {
+      "id": "muse_mint",
+      "name": "Muse音符薄荷",
+      "seconds": 600,
+      "legacySeconds": 120,
+      "seedPrice": 5,
+      "sellPrice": 11,
+      "xp": 7,
+      "unlock": 20,
+      "frame": 321
+    },
+    {
+      "id": "llama_woolfruit",
+      "name": "Llama绒果",
+      "seconds": 43200,
+      "legacySeconds": 43200,
+      "seedPrice": 150,
+      "sellPrice": 300,
+      "xp": 60,
+      "unlock": 420,
+      "frame": 322
+    },
+    {
+      "id": "opencode_fern",
+      "name": "开源括号蕨",
+      "seconds": 43200,
+      "legacySeconds": 43200,
+      "seedPrice": 160,
+      "sellPrice": 320,
+      "xp": 65,
+      "unlock": 480,
+      "frame": 323
+    },
+    {
+      "id": "nsfw_tulip",
+      "name": "NSFW帘幕郁金香",
+      "seconds": 28800,
+      "legacySeconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 324
+    },
+    {
+      "id": "linux_penguin_radish",
+      "name": "L站企鹅萝卜",
+      "seconds": 600,
+      "legacySeconds": 60,
+      "seedPrice": 3,
+      "sellPrice": 7,
+      "xp": 5,
+      "unlock": 0,
+      "frame": 325
+    },
+    {
+      "id": "capy_taro",
+      "name": "松弛水豚芋",
+      "seconds": 7200,
+      "legacySeconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 326
+    },
+    {
+      "id": "malou_mandarin",
+      "name": "吗喽砂糖橘",
+      "seconds": 600,
+      "legacySeconds": 240,
+      "seedPrice": 10,
+      "sellPrice": 22,
+      "xp": 11,
+      "unlock": 120,
+      "frame": 327
+    },
+    {
+      "id": "tangping_melon",
+      "name": "躺平西瓜",
+      "seconds": 43200,
+      "legacySeconds": 43200,
+      "seedPrice": 160,
+      "sellPrice": 320,
+      "xp": 65,
+      "unlock": 480,
+      "frame": 328
+    },
+    {
+      "id": "xianyan_dragonfruit",
+      "name": "显眼包火龙果",
+      "seconds": 28800,
+      "legacySeconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 329
+    },
+    {
+      "id": "baobao_blessing_rice",
+      "name": "饱饱福签稻",
+      "seconds": 600,
+      "seedPrice": 13,
+      "sellPrice": 30,
+      "xp": 14,
+      "unlock": 220,
+      "frame": 600,
+      "legacySeconds": 360,
+      "collection": "群友限定",
+      "story": "胖鱼把福签藏进稻穗，祝每个干饭人都有收成。"
+    },
+    {
+      "id": "baobao_big_banana",
+      "name": "吃大份金蕉",
+      "seconds": 3600,
+      "seedPrice": 40,
+      "sellPrice": 80,
+      "xp": 25,
+      "unlock": 100,
+      "frame": 601,
+      "legacySeconds": 3600,
+      "collection": "群友限定",
+      "story": "群里的一句“吃大的”，长成了沉甸甸的金蕉。"
+    },
+    {
+      "id": "iron_armour_eggplant",
+      "name": "铁男轻甲茄",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 602,
+      "legacySeconds": 28800,
+      "collection": "群友限定",
+      "story": "银灰小甲片裹住茄子，今天也绝不空收。"
+    },
+    {
+      "id": "iron_offwork_mint",
+      "name": "下班摸鱼薄荷",
+      "seconds": 600,
+      "seedPrice": 5,
+      "sellPrice": 11,
+      "xp": 7,
+      "unlock": 20,
+      "frame": 603,
+      "legacySeconds": 120,
+      "collection": "群友限定",
+      "story": "等到下班铃响，就把烦恼留在田埂外。"
+    },
+    {
+      "id": "polaris_star_lotus",
+      "name": "Polaris寻星莲",
+      "seconds": 7200,
+      "seedPrice": 60,
+      "sellPrice": 120,
+      "xp": 30,
+      "unlock": 180,
+      "frame": 604,
+      "legacySeconds": 7200,
+      "collection": "群友限定",
+      "story": "北极星来自昵称，星点在莲心悄悄发亮。"
+    },
+    {
+      "id": "polaris_water_berry",
+      "name": "多喝水露莓",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 605,
+      "legacySeconds": 28800,
+      "collection": "群友限定",
+      "story": "把群里的一句“多喝点水”，收成一簇清凉露莓。"
+    },
+    {
+      "id": "bigrice_little_grain",
+      "name": "BigRice稻光穗",
+      "seconds": 600,
+      "seedPrice": 7,
+      "sellPrice": 16,
+      "xp": 9,
+      "unlock": 60,
+      "frame": 606,
+      "legacySeconds": 180,
+      "collection": "群友限定",
+      "story": "米粒小精灵，名字取自群友公开昵称。"
+    },
+    {
+      "id": "bigrice_rice_mushroom",
+      "name": "米粒绒绒菇",
+      "seconds": 14400,
+      "seedPrice": 90,
+      "sellPrice": 180,
+      "xp": 40,
+      "unlock": 280,
+      "frame": 607,
+      "legacySeconds": 14400,
+      "collection": "群友限定",
+      "story": "像小饭团一样的菌帽，颗颗饱满。"
+    },
+    {
+      "id": "soup_morning_pumpkin",
+      "name": "早茶羹羹瓜",
+      "seconds": 600,
+      "seedPrice": 18,
+      "sellPrice": 45,
+      "xp": 18,
+      "unlock": 360,
+      "frame": 608,
+      "legacySeconds": 600,
+      "collection": "群友限定",
+      "story": "给清晨的问候留一碗热乎乎的田园汤。"
+    },
+    {
+      "id": "soup_cosmos_flower",
+      "name": "天地无极花",
+      "seconds": 28800,
+      "seedPrice": 120,
+      "sellPrice": 240,
+      "xp": 50,
+      "unlock": 380,
+      "frame": 609,
+      "legacySeconds": 28800,
+      "collection": "群友限定",
+      "story": "名字来自天地无极羹，花心像旋转的小汤碗。"
+    },
+    {
+      "id": "group_coupon_pepper",
+      "name": "国补灯笼椒",
+      "seconds": 600,
+      "seedPrice": 10,
+      "sellPrice": 22,
+      "xp": 11,
+      "unlock": 120,
+      "frame": 610,
+      "legacySeconds": 240,
+      "collection": "群友限定",
+      "story": "群聊红包的“国补”梗，结成一串小灯笼。"
+    },
+    {
+      "id": "group_shared_clover",
+      "name": "互助券券草",
+      "seconds": 600,
+      "seedPrice": 7,
+      "sellPrice": 16,
+      "xp": 9,
+      "unlock": 60,
+      "frame": 611,
+      "legacySeconds": 180,
+      "collection": "群友限定",
+      "story": "把互助小券折成四叶，收好每一次顺手帮忙。"
+    }
+  ],
+  "FISH": [
+    {
+      "id": "huan",
+      "name": "桃腮鳑鲏",
+      "price": 4,
+      "color": "#c89b9d",
+      "frame": 0
+    },
+    {
+      "id": "banana",
+      "name": "金弯泥鳅",
+      "price": 5,
+      "color": "#c5ae70",
+      "frame": 1
+    },
+    {
+      "id": "meme",
+      "name": "花斑小鲤",
+      "price": 4,
+      "color": "#c49b78",
+      "frame": 2
+    },
+    {
+      "id": "linux",
+      "name": "墨衣金鳍",
+      "price": 6,
+      "color": "#65727c",
+      "frame": 3
+    },
+    {
+      "id": "seek",
+      "name": "鲸梦蓝鳍",
+      "price": 8,
+      "color": "#739da9",
+      "frame": 4
+    },
+    {
+      "id": "gpt",
+      "name": "青结鲤",
+      "price": 6,
+      "color": "#849c75",
+      "frame": 5
+    },
+    {
+      "id": "claude",
+      "name": "暖斑溪鳟",
+      "price": 6,
+      "color": "#be9677",
+      "frame": 6
+    },
+    {
+      "id": "gemini",
+      "name": "双星蝶尾",
+      "price": 8,
+      "color": "#a39bbb",
+      "frame": 7
+    },
+    {
+      "id": "jev",
+      "name": "两面青鲈",
+      "price": 5,
+      "color": "#8da6a1",
+      "frame": 8
+    },
+    {
+      "id": "kimi",
+      "name": "月牙银鲳",
+      "price": 7,
+      "color": "#a9b5c1",
+      "frame": 9
+    },
+    {
+      "id": "qwen",
+      "name": "云纹白条",
+      "price": 5,
+      "color": "#a0b5c4",
+      "frame": 10
+    },
+    {
+      "id": "grok",
+      "name": "夜巡乌鲈",
+      "price": 9,
+      "color": "#72748a",
+      "frame": 11
+    },
+    {
+      "id": "holy",
+      "name": "流金锦鲤",
+      "price": 12,
+      "color": "#ccb47a",
+      "frame": 12
+    },
+    {
+      "id": "mole",
+      "name": "赤须夜鲶",
+      "price": 10,
+      "color": "#946d80",
+      "frame": 13
+    },
+    {
+      "id": "capy",
+      "name": "困困弹涂",
+      "price": 3,
+      "color": "#b09c83",
+      "frame": 14
+    },
+    {
+      "id": "bug",
+      "name": "疾风青梭",
+      "price": 7,
+      "color": "#81a69f",
+      "frame": 15
+    },
+    {
+      "id": "baobao",
+      "name": "饱饱福鱼",
+      "price": 8,
+      "color": "#c6ad75",
+      "frame": 16
+    },
+    {
+      "id": "ironfish",
+      "name": "铁男银甲鲈",
+      "price": 7,
+      "color": "#8c9b9e",
+      "frame": 17
+    },
+    {
+      "id": "offwork",
+      "name": "下班钟摆鲀",
+      "price": 6,
+      "color": "#afa58b",
+      "frame": 18
+    },
+    {
+      "id": "polaris",
+      "name": "Polaris星尾鳉",
+      "price": 8,
+      "color": "#9c9ac0",
+      "frame": 19
+    },
+    {
+      "id": "waterplease",
+      "name": "露水青鲤",
+      "price": 5,
+      "color": "#88ada8",
+      "frame": 20
+    },
+    {
+      "id": "bigrice",
+      "name": "米光银鱼",
+      "price": 6,
+      "color": "#c4bc9f",
+      "frame": 21
+    },
+    {
+      "id": "soup",
+      "name": "早茶暖鳍鲫",
+      "price": 6,
+      "color": "#c6a084",
+      "frame": 22
+    },
+    {
+      "id": "coupon",
+      "name": "国补红包鲷",
+      "price": 7,
+      "color": "#bd8b83",
+      "frame": 23
+    }
+  ],
+  "LEISURE_RULES": {
+    "castCost": 2,
+    "biteWindow": 12,
+    "reelSeconds": 2,
+    "reelWindow": 6,
+    "idleHours": [
+      2,
+      4,
+      8
+    ],
+    "idleInterval": 600,
+    "fishCapacity": 1000,
+    "pigSlots": 6,
+    "feedPrice": 4,
+    "pigFeedUnits": 2,
+    "feedSeconds": 7200,
+    "maxFeedSeconds": 86400,
+    "starvationSeconds": 172800
+  },
+  "MARKET_ITEMS": [
+    {
+      "key": "crop:carrot",
+      "id": "carrot",
+      "kind": "crop",
+      "name": "胡萝卜",
+      "price": 7,
+      "seconds": 600,
+      "frame": 4
+    },
+    {
+      "key": "crop:cabbage",
+      "id": "cabbage",
+      "kind": "crop",
+      "name": "包菜",
+      "price": 11,
+      "seconds": 600,
+      "frame": 5
+    },
+    {
+      "key": "crop:wheat",
+      "id": "wheat",
+      "kind": "crop",
+      "name": "小麦",
+      "price": 16,
+      "seconds": 600,
+      "frame": 6
+    },
+    {
+      "key": "crop:tomato",
+      "id": "tomato",
+      "kind": "crop",
+      "name": "番茄",
+      "price": 22,
+      "seconds": 600,
+      "frame": 7
+    },
+    {
+      "key": "crop:corn",
+      "id": "corn",
+      "kind": "crop",
+      "name": "玉米",
+      "price": 30,
+      "seconds": 600,
+      "frame": 8
+    },
+    {
+      "key": "crop:pumpkin",
+      "id": "pumpkin",
+      "kind": "crop",
+      "name": "南瓜",
+      "price": 45,
+      "seconds": 600,
+      "frame": 9
+    },
+    {
+      "key": "crop:jiba_banana",
+      "id": "jiba_banana",
+      "kind": "crop",
+      "name": "几把巨蕉",
+      "price": 80,
+      "seconds": 3600,
+      "frame": 101
+    },
+    {
+      "key": "crop:naizi_peach",
+      "id": "naizi_peach",
+      "kind": "crop",
+      "name": "柰子蜜桃",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 102
+    },
+    {
+      "key": "crop:mole_mushroom",
+      "id": "mole_mushroom",
+      "kind": "crop",
+      "name": "魔了菇",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 106
+    },
+    {
+      "key": "crop:meme_sunflower",
+      "id": "meme_sunflower",
+      "kind": "crop",
+      "name": "梗图葵",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 108
+    },
+    {
+      "key": "crop:linux_pumpkin",
+      "id": "linux_pumpkin",
+      "kind": "crop",
+      "name": "L站南瓜",
+      "price": 320,
+      "seconds": 43200,
+      "frame": 110
+    },
+    {
+      "key": "crop:deepseek_rice",
+      "id": "deepseek_rice",
+      "kind": "crop",
+      "name": "DeepSeek鲸尾稻",
+      "price": 150,
+      "seconds": 10800,
+      "frame": 200
+    },
+    {
+      "key": "crop:claude_wheat",
+      "id": "claude_wheat",
+      "kind": "crop",
+      "name": "Claude暖穗",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 201
+    },
+    {
+      "key": "crop:gpt_cabbage",
+      "id": "gpt_cabbage",
+      "kind": "crop",
+      "name": "GPT结绳菜",
+      "price": 210,
+      "seconds": 21600,
+      "frame": 202
+    },
+    {
+      "key": "crop:gemini_berry",
+      "id": "gemini_berry",
+      "kind": "crop",
+      "name": "Gemini双星莓",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 203
+    },
+    {
+      "key": "crop:qwen_cotton",
+      "id": "qwen_cotton",
+      "kind": "crop",
+      "name": "Qwen云棉",
+      "price": 300,
+      "seconds": 43200,
+      "frame": 204
+    },
+    {
+      "key": "crop:kimi_bean",
+      "id": "kimi_bean",
+      "kind": "crop",
+      "name": "Kimi月芽豆",
+      "price": 210,
+      "seconds": 21600,
+      "frame": 205
+    },
+    {
+      "key": "crop:glm_bamboo",
+      "id": "glm_bamboo",
+      "kind": "crop",
+      "name": "GLM上下文竹",
+      "price": 320,
+      "seconds": 43200,
+      "frame": 206
+    },
+    {
+      "key": "crop:grok_eggplant",
+      "id": "grok_eggplant",
+      "kind": "crop",
+      "name": "Grok夜茄",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 207
+    },
+    {
+      "key": "crop:jev_pepper",
+      "id": "jev_pepper",
+      "kind": "crop",
+      "name": "Jev是非椒",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 210
+    },
+    {
+      "key": "crop:huan_catmint",
+      "id": "huan_catmint",
+      "kind": "crop",
+      "name": "欢欢猫薄荷",
+      "price": 11,
+      "seconds": 600,
+      "frame": 300
+    },
+    {
+      "key": "crop:dcoin_banana",
+      "id": "dcoin_banana",
+      "kind": "crop",
+      "name": "D币金环蕉",
+      "price": 80,
+      "seconds": 3600,
+      "frame": 301
+    },
+    {
+      "key": "crop:gentle_lotus",
+      "id": "gentle_lotus",
+      "kind": "crop",
+      "name": "正人君子莲",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 302
+    },
+    {
+      "key": "crop:turbo_vine",
+      "id": "turbo_vine",
+      "kind": "crop",
+      "name": "有挂齿轮藤",
+      "price": 150,
+      "seconds": 10800,
+      "frame": 303
+    },
+    {
+      "key": "crop:holy_star_rice",
+      "id": "holy_star_rice",
+      "kind": "crop",
+      "name": "神了星光稻",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 304
+    },
+    {
+      "key": "crop:shadow_nightberry",
+      "id": "shadow_nightberry",
+      "kind": "crop",
+      "name": "魔了夜莓",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 305
+    },
+    {
+      "key": "crop:fiftytwo_cocoa",
+      "id": "fiftytwo_cocoa",
+      "kind": "crop",
+      "name": "52可可豆",
+      "price": 210,
+      "seconds": 21600,
+      "frame": 306
+    },
+    {
+      "key": "crop:guess_wordpea",
+      "id": "guess_wordpea",
+      "kind": "crop",
+      "name": "猜词字谜豆",
+      "price": 7,
+      "seconds": 600,
+      "frame": 307
+    },
+    {
+      "key": "crop:yesno_pistachio",
+      "id": "yesno_pistachio",
+      "kind": "crop",
+      "name": "是非开心果",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 308
+    },
+    {
+      "key": "crop:hint_lantern",
+      "id": "hint_lantern",
+      "kind": "crop",
+      "name": "线索灯笼椒",
+      "price": 22,
+      "seconds": 600,
+      "frame": 309
+    },
+    {
+      "key": "crop:winrate_clover",
+      "id": "winrate_clover",
+      "kind": "crop",
+      "name": "胜率四叶草",
+      "price": 16,
+      "seconds": 600,
+      "frame": 310
+    },
+    {
+      "key": "crop:queue_bambooshoot",
+      "id": "queue_bambooshoot",
+      "kind": "crop",
+      "name": "排队节节笋",
+      "price": 30,
+      "seconds": 600,
+      "frame": 311
+    },
+    {
+      "key": "crop:lucky_dice_mushroom",
+      "id": "lucky_dice_mushroom",
+      "kind": "crop",
+      "name": "手气王骰子菇",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 312
+    },
+    {
+      "key": "crop:unlucky_bittermelon",
+      "id": "unlucky_bittermelon",
+      "kind": "crop",
+      "name": "手气亡苦瓜",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 313
+    },
+    {
+      "key": "crop:waterchat_cattail",
+      "id": "waterchat_cattail",
+      "kind": "crop",
+      "name": "水群蒲草",
+      "price": 45,
+      "seconds": 600,
+      "frame": 314
+    },
+    {
+      "key": "crop:nightowl_coffee",
+      "id": "nightowl_coffee",
+      "kind": "crop",
+      "name": "夜聊咖啡豆",
+      "price": 320,
+      "seconds": 43200,
+      "frame": 315
+    },
+    {
+      "key": "crop:earlybird_glory",
+      "id": "earlybird_glory",
+      "kind": "crop",
+      "name": "早安牵牛花",
+      "price": 22,
+      "seconds": 600,
+      "frame": 316
+    },
+    {
+      "key": "crop:r2_cloudberry",
+      "id": "r2_cloudberry",
+      "kind": "crop",
+      "name": "云盘云莓",
+      "price": 300,
+      "seconds": 43200,
+      "frame": 317
+    },
+    {
+      "key": "crop:d1_index_cactus",
+      "id": "d1_index_cactus",
+      "kind": "crop",
+      "name": "索引仙人掌",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 318
+    },
+    {
+      "key": "crop:worker_clockflower",
+      "id": "worker_clockflower",
+      "kind": "crop",
+      "name": "打工时钟花",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 319
+    },
+    {
+      "key": "crop:jev_scale_bean",
+      "id": "jev_scale_bean",
+      "kind": "crop",
+      "name": "Jev天平豆",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 320
+    },
+    {
+      "key": "crop:muse_mint",
+      "id": "muse_mint",
+      "kind": "crop",
+      "name": "Muse音符薄荷",
+      "price": 11,
+      "seconds": 600,
+      "frame": 321
+    },
+    {
+      "key": "crop:llama_woolfruit",
+      "id": "llama_woolfruit",
+      "kind": "crop",
+      "name": "Llama绒果",
+      "price": 300,
+      "seconds": 43200,
+      "frame": 322
+    },
+    {
+      "key": "crop:opencode_fern",
+      "id": "opencode_fern",
+      "kind": "crop",
+      "name": "开源括号蕨",
+      "price": 320,
+      "seconds": 43200,
+      "frame": 323
+    },
+    {
+      "key": "crop:nsfw_tulip",
+      "id": "nsfw_tulip",
+      "kind": "crop",
+      "name": "NSFW帘幕郁金香",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 324
+    },
+    {
+      "key": "crop:linux_penguin_radish",
+      "id": "linux_penguin_radish",
+      "kind": "crop",
+      "name": "L站企鹅萝卜",
+      "price": 7,
+      "seconds": 600,
+      "frame": 325
+    },
+    {
+      "key": "crop:capy_taro",
+      "id": "capy_taro",
+      "kind": "crop",
+      "name": "松弛水豚芋",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 326
+    },
+    {
+      "key": "crop:malou_mandarin",
+      "id": "malou_mandarin",
+      "kind": "crop",
+      "name": "吗喽砂糖橘",
+      "price": 22,
+      "seconds": 600,
+      "frame": 327
+    },
+    {
+      "key": "crop:tangping_melon",
+      "id": "tangping_melon",
+      "kind": "crop",
+      "name": "躺平西瓜",
+      "price": 320,
+      "seconds": 43200,
+      "frame": 328
+    },
+    {
+      "key": "crop:xianyan_dragonfruit",
+      "id": "xianyan_dragonfruit",
+      "kind": "crop",
+      "name": "显眼包火龙果",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 329
+    },
+    {
+      "key": "crop:baobao_blessing_rice",
+      "id": "baobao_blessing_rice",
+      "kind": "crop",
+      "name": "饱饱福签稻",
+      "price": 30,
+      "seconds": 600,
+      "frame": 600
+    },
+    {
+      "key": "crop:baobao_big_banana",
+      "id": "baobao_big_banana",
+      "kind": "crop",
+      "name": "吃大份金蕉",
+      "price": 80,
+      "seconds": 3600,
+      "frame": 601
+    },
+    {
+      "key": "crop:iron_armour_eggplant",
+      "id": "iron_armour_eggplant",
+      "kind": "crop",
+      "name": "铁男轻甲茄",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 602
+    },
+    {
+      "key": "crop:iron_offwork_mint",
+      "id": "iron_offwork_mint",
+      "kind": "crop",
+      "name": "下班摸鱼薄荷",
+      "price": 11,
+      "seconds": 600,
+      "frame": 603
+    },
+    {
+      "key": "crop:polaris_star_lotus",
+      "id": "polaris_star_lotus",
+      "kind": "crop",
+      "name": "Polaris寻星莲",
+      "price": 120,
+      "seconds": 7200,
+      "frame": 604
+    },
+    {
+      "key": "crop:polaris_water_berry",
+      "id": "polaris_water_berry",
+      "kind": "crop",
+      "name": "多喝水露莓",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 605
+    },
+    {
+      "key": "crop:bigrice_little_grain",
+      "id": "bigrice_little_grain",
+      "kind": "crop",
+      "name": "BigRice稻光穗",
+      "price": 16,
+      "seconds": 600,
+      "frame": 606
+    },
+    {
+      "key": "crop:bigrice_rice_mushroom",
+      "id": "bigrice_rice_mushroom",
+      "kind": "crop",
+      "name": "米粒绒绒菇",
+      "price": 180,
+      "seconds": 14400,
+      "frame": 607
+    },
+    {
+      "key": "crop:soup_morning_pumpkin",
+      "id": "soup_morning_pumpkin",
+      "kind": "crop",
+      "name": "早茶羹羹瓜",
+      "price": 45,
+      "seconds": 600,
+      "frame": 608
+    },
+    {
+      "key": "crop:soup_cosmos_flower",
+      "id": "soup_cosmos_flower",
+      "kind": "crop",
+      "name": "天地无极花",
+      "price": 240,
+      "seconds": 28800,
+      "frame": 609
+    },
+    {
+      "key": "crop:group_coupon_pepper",
+      "id": "group_coupon_pepper",
+      "kind": "crop",
+      "name": "国补灯笼椒",
+      "price": 22,
+      "seconds": 600,
+      "frame": 610
+    },
+    {
+      "key": "crop:group_shared_clover",
+      "id": "group_shared_clover",
+      "kind": "crop",
+      "name": "互助券券草",
+      "price": 16,
+      "seconds": 600,
+      "frame": 611
+    },
+    {
+      "key": "animal:chicken",
+      "id": "chicken",
+      "kind": "animal",
+      "name": "鸡蛋",
+      "price": 11,
+      "seconds": 600,
+      "frame": 6
+    },
+    {
+      "key": "animal:cow",
+      "id": "cow",
+      "kind": "animal",
+      "name": "鲜奶",
+      "price": 30,
+      "seconds": 3600,
+      "frame": 7
+    },
+    {
+      "key": "animal:sheep",
+      "id": "sheep",
+      "kind": "animal",
+      "name": "羊毛",
+      "price": 50,
+      "seconds": 7200,
+      "frame": 8
+    },
+    {
+      "key": "animal:huan_cat",
+      "id": "huan_cat",
+      "kind": "animal",
+      "name": "欢欢猫毛球",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 100
+    },
+    {
+      "key": "animal:gentle_swan",
+      "id": "gentle_swan",
+      "kind": "animal",
+      "name": "君子羽",
+      "price": 54,
+      "seconds": 7200,
+      "frame": 103
+    },
+    {
+      "key": "animal:turbo_bull",
+      "id": "turbo_bull",
+      "kind": "animal",
+      "name": "闪电奶",
+      "price": 24,
+      "seconds": 1800,
+      "frame": 104
+    },
+    {
+      "key": "animal:holy_deer",
+      "id": "holy_deer",
+      "kind": "animal",
+      "name": "星光绒",
+      "price": 90,
+      "seconds": 14400,
+      "frame": 105
+    },
+    {
+      "key": "animal:meme_chicken",
+      "id": "meme_chicken",
+      "kind": "animal",
+      "name": "迷因蛋",
+      "price": 18,
+      "seconds": 1200,
+      "frame": 107
+    },
+    {
+      "key": "animal:nsfw_sheep",
+      "id": "nsfw_sheep",
+      "kind": "animal",
+      "name": "夜绒",
+      "price": 74,
+      "seconds": 10800,
+      "frame": 109
+    },
+    {
+      "key": "animal:linux_sheep",
+      "id": "linux_sheep",
+      "kind": "animal",
+      "name": "欢聚绒",
+      "price": 84,
+      "seconds": 14400,
+      "frame": 111
+    },
+    {
+      "key": "animal:llama",
+      "id": "llama",
+      "kind": "animal",
+      "name": "绒驼毛",
+      "price": 70,
+      "seconds": 10800,
+      "frame": 209
+    },
+    {
+      "key": "animal:huan_blushrabbit",
+      "id": "huan_blushrabbit",
+      "kind": "animal",
+      "name": "欢欢绒团",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 330
+    },
+    {
+      "key": "animal:dcoin_hamster",
+      "id": "dcoin_hamster",
+      "kind": "animal",
+      "name": "香蕉果仁",
+      "price": 11,
+      "seconds": 600,
+      "frame": 331
+    },
+    {
+      "key": "animal:jiba_banana_slug",
+      "id": "jiba_banana_slug",
+      "kind": "animal",
+      "name": "金蕉凝珠",
+      "price": 50,
+      "seconds": 7200,
+      "frame": 332
+    },
+    {
+      "key": "animal:naizi_peach_cow",
+      "id": "naizi_peach_cow",
+      "kind": "animal",
+      "name": "蜜桃鲜奶",
+      "price": 30,
+      "seconds": 3600,
+      "frame": 333
+    },
+    {
+      "key": "animal:gentle_crane",
+      "id": "gentle_crane",
+      "kind": "animal",
+      "name": "君子长羽",
+      "price": 54,
+      "seconds": 7200,
+      "frame": 334
+    },
+    {
+      "key": "animal:turbo_cheetah",
+      "id": "turbo_cheetah",
+      "kind": "animal",
+      "name": "疾风绒",
+      "price": 24,
+      "seconds": 1800,
+      "frame": 335
+    },
+    {
+      "key": "animal:holy_unicorn",
+      "id": "holy_unicorn",
+      "kind": "animal",
+      "name": "星辉鬃毛",
+      "price": 90,
+      "seconds": 14400,
+      "frame": 336
+    },
+    {
+      "key": "animal:mole_bat",
+      "id": "mole_bat",
+      "kind": "animal",
+      "name": "夜翼绒",
+      "price": 74,
+      "seconds": 10800,
+      "frame": 337
+    },
+    {
+      "key": "animal:deepseek_whale",
+      "id": "deepseek_whale",
+      "kind": "animal",
+      "name": "鲸梦泡泡",
+      "price": 30,
+      "seconds": 3600,
+      "frame": 338
+    },
+    {
+      "key": "animal:gpt_knot_turtle",
+      "id": "gpt_knot_turtle",
+      "kind": "animal",
+      "name": "结绳珠",
+      "price": 50,
+      "seconds": 7200,
+      "frame": 339
+    },
+    {
+      "key": "animal:claude_sunfox",
+      "id": "claude_sunfox",
+      "kind": "animal",
+      "name": "暖阳绒",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 340
+    },
+    {
+      "key": "animal:gemini_twinbird",
+      "id": "gemini_twinbird",
+      "kind": "animal",
+      "name": "双星羽",
+      "price": 54,
+      "seconds": 7200,
+      "frame": 341
+    },
+    {
+      "key": "animal:qwen_cloudcat",
+      "id": "qwen_cloudcat",
+      "kind": "animal",
+      "name": "云团绒",
+      "price": 74,
+      "seconds": 10800,
+      "frame": 342
+    },
+    {
+      "key": "animal:kimi_moonrabbit",
+      "id": "kimi_moonrabbit",
+      "kind": "animal",
+      "name": "月芽绒",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 343
+    },
+    {
+      "key": "animal:glm_memoryelephant",
+      "id": "glm_memoryelephant",
+      "kind": "animal",
+      "name": "记忆晶珠",
+      "price": 90,
+      "seconds": 14400,
+      "frame": 344
+    },
+    {
+      "key": "animal:grok_nightcrow",
+      "id": "grok_nightcrow",
+      "kind": "animal",
+      "name": "夜巡羽",
+      "price": 54,
+      "seconds": 7200,
+      "frame": 345
+    },
+    {
+      "key": "animal:jev_balanceowl",
+      "id": "jev_balanceowl",
+      "kind": "animal",
+      "name": "是非羽",
+      "price": 24,
+      "seconds": 1800,
+      "frame": 346
+    },
+    {
+      "key": "animal:muse_songlark",
+      "id": "muse_songlark",
+      "kind": "animal",
+      "name": "旋律羽",
+      "price": 18,
+      "seconds": 1200,
+      "frame": 347
+    },
+    {
+      "key": "animal:llama_packet_alpaca",
+      "id": "llama_packet_alpaca",
+      "kind": "animal",
+      "name": "背包绒",
+      "price": 70,
+      "seconds": 10800,
+      "frame": 348
+    },
+    {
+      "key": "animal:linux_penguin",
+      "id": "linux_penguin",
+      "kind": "animal",
+      "name": "社区软绒",
+      "price": 84,
+      "seconds": 14400,
+      "frame": 349
+    },
+    {
+      "key": "animal:nsfw_nightmoth",
+      "id": "nsfw_nightmoth",
+      "kind": "animal",
+      "name": "夜帘丝",
+      "price": 74,
+      "seconds": 10800,
+      "frame": 350
+    },
+    {
+      "key": "animal:guess_raccoon",
+      "id": "guess_raccoon",
+      "kind": "animal",
+      "name": "谜题绒",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 351
+    },
+    {
+      "key": "animal:lucky_goldkoi",
+      "id": "lucky_goldkoi",
+      "kind": "animal",
+      "name": "好运鳞",
+      "price": 90,
+      "seconds": 14400,
+      "frame": 352
+    },
+    {
+      "key": "animal:unlucky_greyduck",
+      "id": "unlucky_greyduck",
+      "kind": "animal",
+      "name": "安慰软羽",
+      "price": 11,
+      "seconds": 600,
+      "frame": 353
+    },
+    {
+      "key": "animal:waterchat_otter",
+      "id": "waterchat_otter",
+      "kind": "animal",
+      "name": "泡泡珠",
+      "price": 30,
+      "seconds": 3600,
+      "frame": 354
+    },
+    {
+      "key": "animal:nightwatch_owl",
+      "id": "nightwatch_owl",
+      "kind": "animal",
+      "name": "守夜羽",
+      "price": 50,
+      "seconds": 7200,
+      "frame": 355
+    },
+    {
+      "key": "animal:earlybird_rooster",
+      "id": "earlybird_rooster",
+      "kind": "animal",
+      "name": "朝露蛋",
+      "price": 18,
+      "seconds": 1200,
+      "frame": 356
+    },
+    {
+      "key": "animal:capy_capybara",
+      "id": "capy_capybara",
+      "kind": "animal",
+      "name": "温泉绒",
+      "price": 30,
+      "seconds": 3600,
+      "frame": 357
+    },
+    {
+      "key": "animal:malou_monkey",
+      "id": "malou_monkey",
+      "kind": "animal",
+      "name": "砂糖橘",
+      "price": 20,
+      "seconds": 1800,
+      "frame": 358
+    },
+    {
+      "key": "animal:xianyan_peacock",
+      "id": "xianyan_peacock",
+      "kind": "animal",
+      "name": "显眼彩羽",
+      "price": 90,
+      "seconds": 14400,
+      "frame": 359
+    },
+    {
+      "key": "fish:huan",
+      "id": "huan",
+      "kind": "fish",
+      "name": "桃腮鳑鲏",
+      "price": 4,
+      "seconds": 3600,
+      "frame": 0
+    },
+    {
+      "key": "fish:banana",
+      "id": "banana",
+      "kind": "fish",
+      "name": "金弯泥鳅",
+      "price": 5,
+      "seconds": 3600,
+      "frame": 1
+    },
+    {
+      "key": "fish:meme",
+      "id": "meme",
+      "kind": "fish",
+      "name": "花斑小鲤",
+      "price": 4,
+      "seconds": 3600,
+      "frame": 2
+    },
+    {
+      "key": "fish:linux",
+      "id": "linux",
+      "kind": "fish",
+      "name": "墨衣金鳍",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 3
+    },
+    {
+      "key": "fish:seek",
+      "id": "seek",
+      "kind": "fish",
+      "name": "鲸梦蓝鳍",
+      "price": 8,
+      "seconds": 3600,
+      "frame": 4
+    },
+    {
+      "key": "fish:gpt",
+      "id": "gpt",
+      "kind": "fish",
+      "name": "青结鲤",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 5
+    },
+    {
+      "key": "fish:claude",
+      "id": "claude",
+      "kind": "fish",
+      "name": "暖斑溪鳟",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 6
+    },
+    {
+      "key": "fish:gemini",
+      "id": "gemini",
+      "kind": "fish",
+      "name": "双星蝶尾",
+      "price": 8,
+      "seconds": 3600,
+      "frame": 7
+    },
+    {
+      "key": "fish:jev",
+      "id": "jev",
+      "kind": "fish",
+      "name": "两面青鲈",
+      "price": 5,
+      "seconds": 3600,
+      "frame": 8
+    },
+    {
+      "key": "fish:kimi",
+      "id": "kimi",
+      "kind": "fish",
+      "name": "月牙银鲳",
+      "price": 7,
+      "seconds": 3600,
+      "frame": 9
+    },
+    {
+      "key": "fish:qwen",
+      "id": "qwen",
+      "kind": "fish",
+      "name": "云纹白条",
+      "price": 5,
+      "seconds": 3600,
+      "frame": 10
+    },
+    {
+      "key": "fish:grok",
+      "id": "grok",
+      "kind": "fish",
+      "name": "夜巡乌鲈",
+      "price": 9,
+      "seconds": 3600,
+      "frame": 11
+    },
+    {
+      "key": "fish:holy",
+      "id": "holy",
+      "kind": "fish",
+      "name": "流金锦鲤",
+      "price": 12,
+      "seconds": 3600,
+      "frame": 12
+    },
+    {
+      "key": "fish:mole",
+      "id": "mole",
+      "kind": "fish",
+      "name": "赤须夜鲶",
+      "price": 10,
+      "seconds": 3600,
+      "frame": 13
+    },
+    {
+      "key": "fish:capy",
+      "id": "capy",
+      "kind": "fish",
+      "name": "困困弹涂",
+      "price": 3,
+      "seconds": 3600,
+      "frame": 14
+    },
+    {
+      "key": "fish:bug",
+      "id": "bug",
+      "kind": "fish",
+      "name": "疾风青梭",
+      "price": 7,
+      "seconds": 3600,
+      "frame": 15
+    },
+    {
+      "key": "fish:baobao",
+      "id": "baobao",
+      "kind": "fish",
+      "name": "饱饱福鱼",
+      "price": 8,
+      "seconds": 3600,
+      "frame": 16
+    },
+    {
+      "key": "fish:ironfish",
+      "id": "ironfish",
+      "kind": "fish",
+      "name": "铁男银甲鲈",
+      "price": 7,
+      "seconds": 3600,
+      "frame": 17
+    },
+    {
+      "key": "fish:offwork",
+      "id": "offwork",
+      "kind": "fish",
+      "name": "下班钟摆鲀",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 18
+    },
+    {
+      "key": "fish:polaris",
+      "id": "polaris",
+      "kind": "fish",
+      "name": "Polaris星尾鳉",
+      "price": 8,
+      "seconds": 3600,
+      "frame": 19
+    },
+    {
+      "key": "fish:waterplease",
+      "id": "waterplease",
+      "kind": "fish",
+      "name": "露水青鲤",
+      "price": 5,
+      "seconds": 3600,
+      "frame": 20
+    },
+    {
+      "key": "fish:bigrice",
+      "id": "bigrice",
+      "kind": "fish",
+      "name": "米光银鱼",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 21
+    },
+    {
+      "key": "fish:soup",
+      "id": "soup",
+      "kind": "fish",
+      "name": "早茶暖鳍鲫",
+      "price": 6,
+      "seconds": 3600,
+      "frame": 22
+    },
+    {
+      "key": "fish:coupon",
+      "id": "coupon",
+      "kind": "fish",
+      "name": "国补红包鲷",
+      "price": 7,
+      "seconds": 3600,
+      "frame": 23
+    }
+  ],
+  "MARKET_RULES": {
+    "tickSeconds": 600,
+    "cooldownSeconds": 600,
+    "shopPremiumPercent": 10,
+    "rottenPercent": 10,
+    "maxTrade": 10000,
+    "minLife": 7200,
+    "maxLife": 172800
+  },
+  "PIGS": [
+    {
+      "id": "dumpling",
+      "name": "团子猪",
+      "seconds": 14400,
+      "price": 80,
+      "sellPrice": 120,
+      "xp": 12,
+      "unlock": 0,
+      "color": "#e5acac"
+    },
+    {
+      "id": "huan",
+      "name": "欢欢桃桃猪",
+      "seconds": 14400,
+      "price": 80,
+      "sellPrice": 120,
+      "xp": 12,
+      "unlock": 0,
+      "color": "#d992a8"
+    },
+    {
+      "id": "banana",
+      "name": "巨蕉布丁猪",
+      "seconds": 28800,
+      "price": 140,
+      "sellPrice": 210,
+      "xp": 20,
+      "unlock": 100,
+      "color": "#dac17b"
+    },
+    {
+      "id": "linux",
+      "name": "L站黑白猪",
+      "seconds": 28800,
+      "price": 140,
+      "sellPrice": 210,
+      "xp": 20,
+      "unlock": 100,
+      "color": "#a6acb2"
+    },
+    {
+      "id": "holy",
+      "name": "神了金铃猪",
+      "seconds": 43200,
+      "price": 200,
+      "sellPrice": 300,
+      "xp": 30,
+      "unlock": 300,
+      "color": "#d6af66"
+    },
+    {
+      "id": "mole",
+      "name": "魔了夜绒猪",
+      "seconds": 43200,
+      "price": 200,
+      "sellPrice": 300,
+      "xp": 30,
+      "unlock": 300,
+      "color": "#ac8fac"
+    }
+  ],
+  "RANCH_RULES": {
+    "slots": 6,
+    "maxSlots": 24,
+    "expansions": [
+      {
+        "slots": 6,
+        "coins": 600,
+        "xp": 500
+      },
+      {
+        "slots": 12,
+        "coins": 1800,
+        "xp": 1800
+      },
+      {
+        "slots": 18,
+        "coins": 4000,
+        "xp": 4000
+      }
+    ],
+    "capacity": 12,
+    "feedPrice": 2,
+    "maxFedSeconds": 86400,
+    "maxFeed": 10000,
+    "starvationSeconds": 172800
+  }
+}

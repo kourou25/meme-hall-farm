@@ -1,0 +1,1126 @@
+{
+  "snapshot_at": "2026-10-26T15:43:00.431Z",
+  "unit": "D币分",
+  "goods": [
+    {
+      "item": "animal:capy_capybara",
+      "base_cents": 3000,
+      "price_cents": 4486,
+      "fresh_qty": 6,
+      "effective_qty": 6,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:chicken",
+      "base_cents": 1100,
+      "price_cents": 686,
+      "fresh_qty": 228,
+      "effective_qty": 208,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:claude_sunfox",
+      "base_cents": 2000,
+      "price_cents": 3092,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:cow",
+      "base_cents": 3000,
+      "price_cents": 4250,
+      "fresh_qty": 43,
+      "effective_qty": 43,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:dcoin_hamster",
+      "base_cents": 1100,
+      "price_cents": 1493,
+      "fresh_qty": 27,
+      "effective_qty": 14,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:deepseek_whale",
+      "base_cents": 3000,
+      "price_cents": 4413,
+      "fresh_qty": 4,
+      "effective_qty": 4,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:gemini_twinbird",
+      "base_cents": 5400,
+      "price_cents": 7126,
+      "fresh_qty": 2,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:gentle_crane",
+      "base_cents": 5400,
+      "price_cents": 5400,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:gentle_swan",
+      "base_cents": 5400,
+      "price_cents": 5400,
+      "fresh_qty": 43,
+      "effective_qty": 43,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:glm_memoryelephant",
+      "base_cents": 9000,
+      "price_cents": 12422,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:guess_raccoon",
+      "base_cents": 2000,
+      "price_cents": 2944,
+      "fresh_qty": 5,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:holy_deer",
+      "base_cents": 9000,
+      "price_cents": 12541,
+      "fresh_qty": 60,
+      "effective_qty": 60,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:holy_unicorn",
+      "base_cents": 9000,
+      "price_cents": 13369,
+      "fresh_qty": 19,
+      "effective_qty": 19,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:huan_cat",
+      "base_cents": 2000,
+      "price_cents": 2000,
+      "fresh_qty": 44,
+      "effective_qty": 44,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:jiba_banana_slug",
+      "base_cents": 5000,
+      "price_cents": 6546,
+      "fresh_qty": 4,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:kimi_moonrabbit",
+      "base_cents": 2000,
+      "price_cents": 3092,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:linux_penguin",
+      "base_cents": 8400,
+      "price_cents": 12657,
+      "fresh_qty": 4,
+      "effective_qty": 4,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:linux_sheep",
+      "base_cents": 8400,
+      "price_cents": 8400,
+      "fresh_qty": 3,
+      "effective_qty": 3,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:llama",
+      "base_cents": 7000,
+      "price_cents": 7946,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:lucky_goldkoi",
+      "base_cents": 9000,
+      "price_cents": 13275,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:malou_monkey",
+      "base_cents": 2000,
+      "price_cents": 2281,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:meme_chicken",
+      "base_cents": 1800,
+      "price_cents": 2565,
+      "fresh_qty": 44,
+      "effective_qty": 44,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:mole_bat",
+      "base_cents": 7400,
+      "price_cents": 8393,
+      "fresh_qty": 3,
+      "effective_qty": 3,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:naizi_peach_cow",
+      "base_cents": 3000,
+      "price_cents": 4448,
+      "fresh_qty": 1,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:nsfw_sheep",
+      "base_cents": 7400,
+      "price_cents": 10825,
+      "fresh_qty": 7,
+      "effective_qty": 7,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:qwen_cloudcat",
+      "base_cents": 7400,
+      "price_cents": 10078,
+      "fresh_qty": 10,
+      "effective_qty": 10,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:sheep",
+      "base_cents": 5000,
+      "price_cents": 5000,
+      "fresh_qty": 43,
+      "effective_qty": 43,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:turbo_bull",
+      "base_cents": 2400,
+      "price_cents": 3386,
+      "fresh_qty": 45,
+      "effective_qty": 45,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:turbo_cheetah",
+      "base_cents": 2400,
+      "price_cents": 3711,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:waterchat_otter",
+      "base_cents": 3000,
+      "price_cents": 4460,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "animal:xianyan_peacock",
+      "base_cents": 9000,
+      "price_cents": 12292,
+      "fresh_qty": 68,
+      "effective_qty": 68,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:baobao_blessing_rice",
+      "base_cents": 3000,
+      "price_cents": 2121,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:bigrice_rice_mushroom",
+      "base_cents": 18000,
+      "price_cents": 23979,
+      "fresh_qty": 66,
+      "effective_qty": 39,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:cabbage",
+      "base_cents": 1100,
+      "price_cents": 1381,
+      "fresh_qty": 95,
+      "effective_qty": 95,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:capy_taro",
+      "base_cents": 12000,
+      "price_cents": 12000,
+      "fresh_qty": 7,
+      "effective_qty": 7,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:carrot",
+      "base_cents": 700,
+      "price_cents": 281,
+      "fresh_qty": 19520,
+      "effective_qty": 19520,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:claude_wheat",
+      "base_cents": 18000,
+      "price_cents": 18000,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:corn",
+      "base_cents": 3000,
+      "price_cents": 1801,
+      "fresh_qty": 93,
+      "effective_qty": 93,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:d1_index_cactus",
+      "base_cents": 18000,
+      "price_cents": 23076,
+      "fresh_qty": 13,
+      "effective_qty": 12,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:dcoin_banana",
+      "base_cents": 8000,
+      "price_cents": 9633,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:deepseek_rice",
+      "base_cents": 15000,
+      "price_cents": 18960,
+      "fresh_qty": 3,
+      "effective_qty": 3,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:earlybird_glory",
+      "base_cents": 2200,
+      "price_cents": 2078,
+      "fresh_qty": 42,
+      "effective_qty": 42,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:fiftytwo_cocoa",
+      "base_cents": 21000,
+      "price_cents": 28739,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:gemini_berry",
+      "base_cents": 24000,
+      "price_cents": 25737,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:gentle_lotus",
+      "base_cents": 12000,
+      "price_cents": 12000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:glm_bamboo",
+      "base_cents": 32000,
+      "price_cents": 32000,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:gpt_cabbage",
+      "base_cents": 21000,
+      "price_cents": 27208,
+      "fresh_qty": 14,
+      "effective_qty": 14,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:grok_eggplant",
+      "base_cents": 24000,
+      "price_cents": 24000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:group_coupon_pepper",
+      "base_cents": 2200,
+      "price_cents": 1626,
+      "fresh_qty": 454,
+      "effective_qty": 183,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:group_shared_clover",
+      "base_cents": 1600,
+      "price_cents": 1600,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:guess_wordpea",
+      "base_cents": 700,
+      "price_cents": 700,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:hint_lantern",
+      "base_cents": 2200,
+      "price_cents": 1704,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:holy_star_rice",
+      "base_cents": 18000,
+      "price_cents": 18000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:huan_catmint",
+      "base_cents": 1100,
+      "price_cents": 1100,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:jev_pepper",
+      "base_cents": 12000,
+      "price_cents": 12000,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:jev_scale_bean",
+      "base_cents": 12000,
+      "price_cents": 12000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:jiba_banana",
+      "base_cents": 8000,
+      "price_cents": 9491,
+      "fresh_qty": 78,
+      "effective_qty": 78,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:kimi_bean",
+      "base_cents": 21000,
+      "price_cents": 29168,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:linux_penguin_radish",
+      "base_cents": 700,
+      "price_cents": 695,
+      "fresh_qty": 2,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:linux_pumpkin",
+      "base_cents": 32000,
+      "price_cents": 40356,
+      "fresh_qty": 95,
+      "effective_qty": 66,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:llama_woolfruit",
+      "base_cents": 30000,
+      "price_cents": 29806,
+      "fresh_qty": 14,
+      "effective_qty": 4,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:lucky_dice_mushroom",
+      "base_cents": 18000,
+      "price_cents": 18000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:malou_mandarin",
+      "base_cents": 2200,
+      "price_cents": 1941,
+      "fresh_qty": 15,
+      "effective_qty": 15,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:meme_sunflower",
+      "base_cents": 24000,
+      "price_cents": 33193,
+      "fresh_qty": 40,
+      "effective_qty": 23,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:mole_mushroom",
+      "base_cents": 18000,
+      "price_cents": 26487,
+      "fresh_qty": 7,
+      "effective_qty": 7,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:muse_mint",
+      "base_cents": 1100,
+      "price_cents": 1100,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:naizi_peach",
+      "base_cents": 12000,
+      "price_cents": 12687,
+      "fresh_qty": 82,
+      "effective_qty": 75,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:nightowl_coffee",
+      "base_cents": 32000,
+      "price_cents": 32497,
+      "fresh_qty": 38,
+      "effective_qty": 27,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:nsfw_tulip",
+      "base_cents": 24000,
+      "price_cents": 24000,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:opencode_fern",
+      "base_cents": 32000,
+      "price_cents": 42671,
+      "fresh_qty": 68,
+      "effective_qty": 59,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:polaris_water_berry",
+      "base_cents": 24000,
+      "price_cents": 26509,
+      "fresh_qty": 0,
+      "effective_qty": 0,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:pumpkin",
+      "base_cents": 4500,
+      "price_cents": 1940,
+      "fresh_qty": 806,
+      "effective_qty": 806,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:queue_bambooshoot",
+      "base_cents": 3000,
+      "price_cents": 1681,
+      "fresh_qty": 1427,
+      "effective_qty": 1073,
+      "sold_flow": 2,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:qwen_cotton",
+      "base_cents": 30000,
+      "price_cents": 35053,
+      "fresh_qty": 14,
+      "effective_qty": 10,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:r2_cloudberry",
+      "base_cents": 30000,
+      "price_cents": 32190,
+      "fresh_qty": 14,
+      "effective_qty": 14,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:shadow_nightberry",
+      "base_cents": 24000,
+      "price_cents": 28813,
+      "fresh_qty": 73,
+      "effective_qty": 73,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:soup_cosmos_flower",
+      "base_cents": 24000,
+      "price_cents": 33137,
+      "fresh_qty": 6,
+      "effective_qty": 4,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:soup_morning_pumpkin",
+      "base_cents": 4500,
+      "price_cents": 2147,
+      "fresh_qty": 1850,
+      "effective_qty": 1060,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:tangping_melon",
+      "base_cents": 32000,
+      "price_cents": 44338,
+      "fresh_qty": 28,
+      "effective_qty": 28,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:tomato",
+      "base_cents": 2200,
+      "price_cents": 1953,
+      "fresh_qty": 112,
+      "effective_qty": 112,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:turbo_vine",
+      "base_cents": 15000,
+      "price_cents": 15000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:unlucky_bittermelon",
+      "base_cents": 24000,
+      "price_cents": 24000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:waterchat_cattail",
+      "base_cents": 4500,
+      "price_cents": 3141,
+      "fresh_qty": 2149,
+      "effective_qty": 1526,
+      "sold_flow": 74,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:wheat",
+      "base_cents": 1600,
+      "price_cents": 1853,
+      "fresh_qty": 69,
+      "effective_qty": 69,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:winrate_clover",
+      "base_cents": 1600,
+      "price_cents": 1600,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:worker_clockflower",
+      "base_cents": 18000,
+      "price_cents": 19792,
+      "fresh_qty": 3,
+      "effective_qty": 3,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:xianyan_dragonfruit",
+      "base_cents": 24000,
+      "price_cents": 24000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "crop:yesno_pistachio",
+      "base_cents": 12000,
+      "price_cents": 12000,
+      "fresh_qty": 1,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:banana",
+      "base_cents": 500,
+      "price_cents": 718,
+      "fresh_qty": 36,
+      "effective_qty": 36,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:baobao",
+      "base_cents": 800,
+      "price_cents": 1240,
+      "fresh_qty": 4,
+      "effective_qty": 2,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:bigrice",
+      "base_cents": 600,
+      "price_cents": 933,
+      "fresh_qty": 5,
+      "effective_qty": 1,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:bug",
+      "base_cents": 700,
+      "price_cents": 1060,
+      "fresh_qty": 12,
+      "effective_qty": 12,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:capy",
+      "base_cents": 300,
+      "price_cents": 460,
+      "fresh_qty": 7,
+      "effective_qty": 7,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:claude",
+      "base_cents": 600,
+      "price_cents": 863,
+      "fresh_qty": 36,
+      "effective_qty": 36,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:coupon",
+      "base_cents": 700,
+      "price_cents": 1077,
+      "fresh_qty": 5,
+      "effective_qty": 5,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:gemini",
+      "base_cents": 800,
+      "price_cents": 1142,
+      "fresh_qty": 40,
+      "effective_qty": 39,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:gpt",
+      "base_cents": 600,
+      "price_cents": 871,
+      "fresh_qty": 30,
+      "effective_qty": 30,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:grok",
+      "base_cents": 900,
+      "price_cents": 1372,
+      "fresh_qty": 11,
+      "effective_qty": 11,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:holy",
+      "base_cents": 1200,
+      "price_cents": 1808,
+      "fresh_qty": 15,
+      "effective_qty": 15,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:huan",
+      "base_cents": 400,
+      "price_cents": 575,
+      "fresh_qty": 34,
+      "effective_qty": 34,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:ironfish",
+      "base_cents": 700,
+      "price_cents": 1083,
+      "fresh_qty": 7,
+      "effective_qty": 3,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:jev",
+      "base_cents": 500,
+      "price_cents": 755,
+      "fresh_qty": 12,
+      "effective_qty": 12,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:kimi",
+      "base_cents": 700,
+      "price_cents": 1065,
+      "fresh_qty": 11,
+      "effective_qty": 9,
+      "sold_flow": 2,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:linux",
+      "base_cents": 600,
+      "price_cents": 863,
+      "fresh_qty": 35,
+      "effective_qty": 35,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:meme",
+      "base_cents": 400,
+      "price_cents": 585,
+      "fresh_qty": 28,
+      "effective_qty": 28,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:mole",
+      "base_cents": 1000,
+      "price_cents": 1511,
+      "fresh_qty": 14,
+      "effective_qty": 14,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:offwork",
+      "base_cents": 600,
+      "price_cents": 931,
+      "fresh_qty": 6,
+      "effective_qty": 3,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:polaris",
+      "base_cents": 800,
+      "price_cents": 1236,
+      "fresh_qty": 4,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:qwen",
+      "base_cents": 500,
+      "price_cents": 762,
+      "fresh_qty": 8,
+      "effective_qty": 8,
+      "sold_flow": 1,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:seek",
+      "base_cents": 800,
+      "price_cents": 1152,
+      "fresh_qty": 34,
+      "effective_qty": 34,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:soup",
+      "base_cents": 600,
+      "price_cents": 927,
+      "fresh_qty": 8,
+      "effective_qty": 3,
+      "sold_flow": 2,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    },
+    {
+      "item": "fish:waterplease",
+      "base_cents": 500,
+      "price_cents": 775,
+      "fresh_qty": 5,
+      "effective_qty": 1,
+      "sold_flow": 0,
+      "bought_flow": 0,
+      "tick_at": 1793029200
+    }
+  ]
+}

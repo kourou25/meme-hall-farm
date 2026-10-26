@@ -1,0 +1,2204 @@
+{
+  "snapshot_at": "2026-10-26T15:43:00.431Z",
+  "granularity": "UTC day",
+  "quotes": [
+    {
+      "item": "animal:capy_capybara",
+      "day": 1792800000,
+      "average_price_cents": 3000,
+      "low_price_cents": 3000,
+      "high_price_cents": 3000
+    },
+    {
+      "item": "animal:capy_capybara",
+      "day": 1792886400,
+      "average_price_cents": 3369,
+      "low_price_cents": 3000,
+      "high_price_cents": 3385
+    },
+    {
+      "item": "animal:capy_capybara",
+      "day": 1792972800,
+      "average_price_cents": 4065,
+      "low_price_cents": 3385,
+      "high_price_cents": 4486
+    },
+    {
+      "item": "animal:chicken",
+      "day": 1792800000,
+      "average_price_cents": 595,
+      "low_price_cents": 387,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "animal:chicken",
+      "day": 1792886400,
+      "average_price_cents": 799,
+      "low_price_cents": 387,
+      "high_price_cents": 1342
+    },
+    {
+      "item": "animal:chicken",
+      "day": 1792972800,
+      "average_price_cents": 680,
+      "low_price_cents": 494,
+      "high_price_cents": 955
+    },
+    {
+      "item": "animal:claude_sunfox",
+      "day": 1792972800,
+      "average_price_cents": 2814,
+      "low_price_cents": 2243,
+      "high_price_cents": 3092
+    },
+    {
+      "item": "animal:cow",
+      "day": 1792800000,
+      "average_price_cents": 3000,
+      "low_price_cents": 3000,
+      "high_price_cents": 3000
+    },
+    {
+      "item": "animal:cow",
+      "day": 1792886400,
+      "average_price_cents": 3887,
+      "low_price_cents": 3000,
+      "high_price_cents": 4255
+    },
+    {
+      "item": "animal:cow",
+      "day": 1792972800,
+      "average_price_cents": 4252,
+      "low_price_cents": 4250,
+      "high_price_cents": 4254
+    },
+    {
+      "item": "animal:dcoin_hamster",
+      "day": 1792800000,
+      "average_price_cents": 1658,
+      "low_price_cents": 1254,
+      "high_price_cents": 1708
+    },
+    {
+      "item": "animal:dcoin_hamster",
+      "day": 1792886400,
+      "average_price_cents": 1551,
+      "low_price_cents": 1496,
+      "high_price_cents": 1708
+    },
+    {
+      "item": "animal:dcoin_hamster",
+      "day": 1792972800,
+      "average_price_cents": 1495,
+      "low_price_cents": 1477,
+      "high_price_cents": 1507
+    },
+    {
+      "item": "animal:deepseek_whale",
+      "day": 1792800000,
+      "average_price_cents": 3000,
+      "low_price_cents": 3000,
+      "high_price_cents": 3000
+    },
+    {
+      "item": "animal:deepseek_whale",
+      "day": 1792886400,
+      "average_price_cents": 3000,
+      "low_price_cents": 3000,
+      "high_price_cents": 3000
+    },
+    {
+      "item": "animal:deepseek_whale",
+      "day": 1792972800,
+      "average_price_cents": 3595,
+      "low_price_cents": 3000,
+      "high_price_cents": 4413
+    },
+    {
+      "item": "animal:gemini_twinbird",
+      "day": 1792972800,
+      "average_price_cents": 6361,
+      "low_price_cents": 6111,
+      "high_price_cents": 7126
+    },
+    {
+      "item": "animal:gentle_crane",
+      "day": 1792800000,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:gentle_crane",
+      "day": 1792886400,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:gentle_crane",
+      "day": 1792972800,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:gentle_swan",
+      "day": 1792800000,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:gentle_swan",
+      "day": 1792886400,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:gentle_swan",
+      "day": 1792972800,
+      "average_price_cents": 5400,
+      "low_price_cents": 5400,
+      "high_price_cents": 5400
+    },
+    {
+      "item": "animal:glm_memoryelephant",
+      "day": 1792800000,
+      "average_price_cents": 9454,
+      "low_price_cents": 4333,
+      "high_price_cents": 10262
+    },
+    {
+      "item": "animal:glm_memoryelephant",
+      "day": 1792886400,
+      "average_price_cents": 10262,
+      "low_price_cents": 10262,
+      "high_price_cents": 10262
+    },
+    {
+      "item": "animal:glm_memoryelephant",
+      "day": 1792972800,
+      "average_price_cents": 11504,
+      "low_price_cents": 10262,
+      "high_price_cents": 12422
+    },
+    {
+      "item": "animal:guess_raccoon",
+      "day": 1792886400,
+      "average_price_cents": 2769,
+      "low_price_cents": 2000,
+      "high_price_cents": 2856
+    },
+    {
+      "item": "animal:guess_raccoon",
+      "day": 1792972800,
+      "average_price_cents": 2957,
+      "low_price_cents": 2856,
+      "high_price_cents": 3038
+    },
+    {
+      "item": "animal:holy_deer",
+      "day": 1792800000,
+      "average_price_cents": 11199,
+      "low_price_cents": 9000,
+      "high_price_cents": 12366
+    },
+    {
+      "item": "animal:holy_deer",
+      "day": 1792886400,
+      "average_price_cents": 12870,
+      "low_price_cents": 12366,
+      "high_price_cents": 13251
+    },
+    {
+      "item": "animal:holy_deer",
+      "day": 1792972800,
+      "average_price_cents": 12578,
+      "low_price_cents": 12458,
+      "high_price_cents": 12849
+    },
+    {
+      "item": "animal:holy_unicorn",
+      "day": 1792800000,
+      "average_price_cents": 9454,
+      "low_price_cents": 4333,
+      "high_price_cents": 10262
+    },
+    {
+      "item": "animal:holy_unicorn",
+      "day": 1792886400,
+      "average_price_cents": 11203,
+      "low_price_cents": 10262,
+      "high_price_cents": 11447
+    },
+    {
+      "item": "animal:holy_unicorn",
+      "day": 1792972800,
+      "average_price_cents": 13066,
+      "low_price_cents": 11447,
+      "high_price_cents": 13369
+    },
+    {
+      "item": "animal:huan_cat",
+      "day": 1792800000,
+      "average_price_cents": 2000,
+      "low_price_cents": 2000,
+      "high_price_cents": 2000
+    },
+    {
+      "item": "animal:huan_cat",
+      "day": 1792886400,
+      "average_price_cents": 2000,
+      "low_price_cents": 2000,
+      "high_price_cents": 2000
+    },
+    {
+      "item": "animal:huan_cat",
+      "day": 1792972800,
+      "average_price_cents": 2000,
+      "low_price_cents": 2000,
+      "high_price_cents": 2000
+    },
+    {
+      "item": "animal:jiba_banana_slug",
+      "day": 1792972800,
+      "average_price_cents": 5838,
+      "low_price_cents": 5607,
+      "high_price_cents": 6546
+    },
+    {
+      "item": "animal:kimi_moonrabbit",
+      "day": 1792972800,
+      "average_price_cents": 2826,
+      "low_price_cents": 2243,
+      "high_price_cents": 3092
+    },
+    {
+      "item": "animal:linux_penguin",
+      "day": 1792800000,
+      "average_price_cents": 8816,
+      "low_price_cents": 3991,
+      "high_price_cents": 9578
+    },
+    {
+      "item": "animal:linux_penguin",
+      "day": 1792886400,
+      "average_price_cents": 10059,
+      "low_price_cents": 9578,
+      "high_price_cents": 10455
+    },
+    {
+      "item": "animal:linux_penguin",
+      "day": 1792972800,
+      "average_price_cents": 11909,
+      "low_price_cents": 10455,
+      "high_price_cents": 12657
+    },
+    {
+      "item": "animal:linux_sheep",
+      "day": 1792800000,
+      "average_price_cents": 8400,
+      "low_price_cents": 8400,
+      "high_price_cents": 8400
+    },
+    {
+      "item": "animal:linux_sheep",
+      "day": 1792886400,
+      "average_price_cents": 8400,
+      "low_price_cents": 8400,
+      "high_price_cents": 8400
+    },
+    {
+      "item": "animal:linux_sheep",
+      "day": 1792972800,
+      "average_price_cents": 8400,
+      "low_price_cents": 8400,
+      "high_price_cents": 8400
+    },
+    {
+      "item": "animal:llama",
+      "day": 1792800000,
+      "average_price_cents": 7000,
+      "low_price_cents": 7000,
+      "high_price_cents": 7000
+    },
+    {
+      "item": "animal:llama",
+      "day": 1792886400,
+      "average_price_cents": 7907,
+      "low_price_cents": 7000,
+      "high_price_cents": 7946
+    },
+    {
+      "item": "animal:llama",
+      "day": 1792972800,
+      "average_price_cents": 7946,
+      "low_price_cents": 7946,
+      "high_price_cents": 7946
+    },
+    {
+      "item": "animal:lucky_goldkoi",
+      "day": 1792800000,
+      "average_price_cents": 9454,
+      "low_price_cents": 4333,
+      "high_price_cents": 10262
+    },
+    {
+      "item": "animal:lucky_goldkoi",
+      "day": 1792886400,
+      "average_price_cents": 10262,
+      "low_price_cents": 10262,
+      "high_price_cents": 10262
+    },
+    {
+      "item": "animal:lucky_goldkoi",
+      "day": 1792972800,
+      "average_price_cents": 12462,
+      "low_price_cents": 10262,
+      "high_price_cents": 13275
+    },
+    {
+      "item": "animal:malou_monkey",
+      "day": 1792972800,
+      "average_price_cents": 2281,
+      "low_price_cents": 2281,
+      "high_price_cents": 2281
+    },
+    {
+      "item": "animal:meme_chicken",
+      "day": 1792800000,
+      "average_price_cents": 1800,
+      "low_price_cents": 1800,
+      "high_price_cents": 1800
+    },
+    {
+      "item": "animal:meme_chicken",
+      "day": 1792886400,
+      "average_price_cents": 2393,
+      "low_price_cents": 1800,
+      "high_price_cents": 2609
+    },
+    {
+      "item": "animal:meme_chicken",
+      "day": 1792972800,
+      "average_price_cents": 2581,
+      "low_price_cents": 2565,
+      "high_price_cents": 2609
+    },
+    {
+      "item": "animal:mole_bat",
+      "day": 1792800000,
+      "average_price_cents": 7400,
+      "low_price_cents": 7400,
+      "high_price_cents": 7400
+    },
+    {
+      "item": "animal:mole_bat",
+      "day": 1792886400,
+      "average_price_cents": 7400,
+      "low_price_cents": 7400,
+      "high_price_cents": 7400
+    },
+    {
+      "item": "animal:mole_bat",
+      "day": 1792972800,
+      "average_price_cents": 8038,
+      "low_price_cents": 7400,
+      "high_price_cents": 8393
+    },
+    {
+      "item": "animal:naizi_peach_cow",
+      "day": 1792972800,
+      "average_price_cents": 3943,
+      "low_price_cents": 3364,
+      "high_price_cents": 4448
+    },
+    {
+      "item": "animal:nsfw_sheep",
+      "day": 1792800000,
+      "average_price_cents": 7400,
+      "low_price_cents": 7400,
+      "high_price_cents": 7400
+    },
+    {
+      "item": "animal:nsfw_sheep",
+      "day": 1792886400,
+      "average_price_cents": 8899,
+      "low_price_cents": 7400,
+      "high_price_cents": 9678
+    },
+    {
+      "item": "animal:nsfw_sheep",
+      "day": 1792972800,
+      "average_price_cents": 10347,
+      "low_price_cents": 9678,
+      "high_price_cents": 10825
+    },
+    {
+      "item": "animal:qwen_cloudcat",
+      "day": 1792800000,
+      "average_price_cents": 7400,
+      "low_price_cents": 7400,
+      "high_price_cents": 7400
+    },
+    {
+      "item": "animal:qwen_cloudcat",
+      "day": 1792886400,
+      "average_price_cents": 7400,
+      "low_price_cents": 7400,
+      "high_price_cents": 7400
+    },
+    {
+      "item": "animal:qwen_cloudcat",
+      "day": 1792972800,
+      "average_price_cents": 9223,
+      "low_price_cents": 7400,
+      "high_price_cents": 10078
+    },
+    {
+      "item": "animal:sheep",
+      "day": 1792800000,
+      "average_price_cents": 5000,
+      "low_price_cents": 5000,
+      "high_price_cents": 5000
+    },
+    {
+      "item": "animal:sheep",
+      "day": 1792886400,
+      "average_price_cents": 5000,
+      "low_price_cents": 5000,
+      "high_price_cents": 5000
+    },
+    {
+      "item": "animal:sheep",
+      "day": 1792972800,
+      "average_price_cents": 5000,
+      "low_price_cents": 5000,
+      "high_price_cents": 5000
+    },
+    {
+      "item": "animal:turbo_bull",
+      "day": 1792800000,
+      "average_price_cents": 2400,
+      "low_price_cents": 2400,
+      "high_price_cents": 2400
+    },
+    {
+      "item": "animal:turbo_bull",
+      "day": 1792886400,
+      "average_price_cents": 3156,
+      "low_price_cents": 2400,
+      "high_price_cents": 3465
+    },
+    {
+      "item": "animal:turbo_bull",
+      "day": 1792972800,
+      "average_price_cents": 3399,
+      "low_price_cents": 3386,
+      "high_price_cents": 3434
+    },
+    {
+      "item": "animal:turbo_cheetah",
+      "day": 1792972800,
+      "average_price_cents": 3361,
+      "low_price_cents": 2692,
+      "high_price_cents": 3711
+    },
+    {
+      "item": "animal:waterchat_otter",
+      "day": 1792800000,
+      "average_price_cents": 3171,
+      "low_price_cents": 1596,
+      "high_price_cents": 3420
+    },
+    {
+      "item": "animal:waterchat_otter",
+      "day": 1792886400,
+      "average_price_cents": 3420,
+      "low_price_cents": 3420,
+      "high_price_cents": 3420
+    },
+    {
+      "item": "animal:waterchat_otter",
+      "day": 1792972800,
+      "average_price_cents": 3843,
+      "low_price_cents": 3420,
+      "high_price_cents": 4460
+    },
+    {
+      "item": "animal:xianyan_peacock",
+      "day": 1792800000,
+      "average_price_cents": 10258,
+      "low_price_cents": 4333,
+      "high_price_cents": 11655
+    },
+    {
+      "item": "animal:xianyan_peacock",
+      "day": 1792886400,
+      "average_price_cents": 11707,
+      "low_price_cents": 11655,
+      "high_price_cents": 11729
+    },
+    {
+      "item": "animal:xianyan_peacock",
+      "day": 1792972800,
+      "average_price_cents": 12083,
+      "low_price_cents": 11363,
+      "high_price_cents": 12292
+    },
+    {
+      "item": "crop:baobao_blessing_rice",
+      "day": 1792800000,
+      "average_price_cents": 3137,
+      "low_price_cents": 2938,
+      "high_price_cents": 3522
+    },
+    {
+      "item": "crop:baobao_blessing_rice",
+      "day": 1792886400,
+      "average_price_cents": 2578,
+      "low_price_cents": 1607,
+      "high_price_cents": 3297
+    },
+    {
+      "item": "crop:baobao_blessing_rice",
+      "day": 1792972800,
+      "average_price_cents": 2121,
+      "low_price_cents": 2121,
+      "high_price_cents": 2121
+    },
+    {
+      "item": "crop:bigrice_rice_mushroom",
+      "day": 1792972800,
+      "average_price_cents": 23652,
+      "low_price_cents": 19277,
+      "high_price_cents": 23979
+    },
+    {
+      "item": "crop:cabbage",
+      "day": 1792800000,
+      "average_price_cents": 1277,
+      "low_price_cents": 1100,
+      "high_price_cents": 1446
+    },
+    {
+      "item": "crop:cabbage",
+      "day": 1792886400,
+      "average_price_cents": 1432,
+      "low_price_cents": 1379,
+      "high_price_cents": 1594
+    },
+    {
+      "item": "crop:cabbage",
+      "day": 1792972800,
+      "average_price_cents": 1334,
+      "low_price_cents": 1069,
+      "high_price_cents": 1394
+    },
+    {
+      "item": "crop:capy_taro",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:capy_taro",
+      "day": 1792886400,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:capy_taro",
+      "day": 1792972800,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:carrot",
+      "day": 1792800000,
+      "average_price_cents": 366,
+      "low_price_cents": 253,
+      "high_price_cents": 700
+    },
+    {
+      "item": "crop:carrot",
+      "day": 1792886400,
+      "average_price_cents": 281,
+      "low_price_cents": 261,
+      "high_price_cents": 319
+    },
+    {
+      "item": "crop:carrot",
+      "day": 1792972800,
+      "average_price_cents": 276,
+      "low_price_cents": 264,
+      "high_price_cents": 282
+    },
+    {
+      "item": "crop:claude_wheat",
+      "day": 1792800000,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:claude_wheat",
+      "day": 1792886400,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:claude_wheat",
+      "day": 1792972800,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:corn",
+      "day": 1792800000,
+      "average_price_cents": 2839,
+      "low_price_cents": 2230,
+      "high_price_cents": 3286
+    },
+    {
+      "item": "crop:corn",
+      "day": 1792886400,
+      "average_price_cents": 2230,
+      "low_price_cents": 2230,
+      "high_price_cents": 2230
+    },
+    {
+      "item": "crop:corn",
+      "day": 1792972800,
+      "average_price_cents": 2154,
+      "low_price_cents": 1518,
+      "high_price_cents": 2652
+    },
+    {
+      "item": "crop:d1_index_cactus",
+      "day": 1792800000,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:d1_index_cactus",
+      "day": 1792886400,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:d1_index_cactus",
+      "day": 1792972800,
+      "average_price_cents": 21114,
+      "low_price_cents": 18000,
+      "high_price_cents": 23854
+    },
+    {
+      "item": "crop:dcoin_banana",
+      "day": 1792800000,
+      "average_price_cents": 8000,
+      "low_price_cents": 8000,
+      "high_price_cents": 8000
+    },
+    {
+      "item": "crop:dcoin_banana",
+      "day": 1792886400,
+      "average_price_cents": 8911,
+      "low_price_cents": 8000,
+      "high_price_cents": 12067
+    },
+    {
+      "item": "crop:dcoin_banana",
+      "day": 1792972800,
+      "average_price_cents": 9633,
+      "low_price_cents": 9633,
+      "high_price_cents": 9633
+    },
+    {
+      "item": "crop:deepseek_rice",
+      "day": 1792800000,
+      "average_price_cents": 15000,
+      "low_price_cents": 15000,
+      "high_price_cents": 15000
+    },
+    {
+      "item": "crop:deepseek_rice",
+      "day": 1792886400,
+      "average_price_cents": 15000,
+      "low_price_cents": 15000,
+      "high_price_cents": 15000
+    },
+    {
+      "item": "crop:deepseek_rice",
+      "day": 1792972800,
+      "average_price_cents": 17112,
+      "low_price_cents": 15000,
+      "high_price_cents": 18960
+    },
+    {
+      "item": "crop:earlybird_glory",
+      "day": 1792800000,
+      "average_price_cents": 2200,
+      "low_price_cents": 2200,
+      "high_price_cents": 2200
+    },
+    {
+      "item": "crop:earlybird_glory",
+      "day": 1792886400,
+      "average_price_cents": 2191,
+      "low_price_cents": 2165,
+      "high_price_cents": 2200
+    },
+    {
+      "item": "crop:earlybird_glory",
+      "day": 1792972800,
+      "average_price_cents": 2100,
+      "low_price_cents": 2038,
+      "high_price_cents": 2165
+    },
+    {
+      "item": "crop:fiftytwo_cocoa",
+      "day": 1792800000,
+      "average_price_cents": 21000,
+      "low_price_cents": 21000,
+      "high_price_cents": 21000
+    },
+    {
+      "item": "crop:fiftytwo_cocoa",
+      "day": 1792886400,
+      "average_price_cents": 21000,
+      "low_price_cents": 21000,
+      "high_price_cents": 21000
+    },
+    {
+      "item": "crop:fiftytwo_cocoa",
+      "day": 1792972800,
+      "average_price_cents": 25227,
+      "low_price_cents": 21000,
+      "high_price_cents": 28739
+    },
+    {
+      "item": "crop:gemini_berry",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:gemini_berry",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:gemini_berry",
+      "day": 1792972800,
+      "average_price_cents": 24384,
+      "low_price_cents": 24000,
+      "high_price_cents": 25737
+    },
+    {
+      "item": "crop:gentle_lotus",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:gentle_lotus",
+      "day": 1792886400,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:gentle_lotus",
+      "day": 1792972800,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:glm_bamboo",
+      "day": 1792800000,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:glm_bamboo",
+      "day": 1792886400,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:glm_bamboo",
+      "day": 1792972800,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:gpt_cabbage",
+      "day": 1792800000,
+      "average_price_cents": 21000,
+      "low_price_cents": 21000,
+      "high_price_cents": 21000
+    },
+    {
+      "item": "crop:gpt_cabbage",
+      "day": 1792886400,
+      "average_price_cents": 21000,
+      "low_price_cents": 21000,
+      "high_price_cents": 21000
+    },
+    {
+      "item": "crop:gpt_cabbage",
+      "day": 1792972800,
+      "average_price_cents": 26589,
+      "low_price_cents": 21000,
+      "high_price_cents": 27596
+    },
+    {
+      "item": "crop:grok_eggplant",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:grok_eggplant",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:grok_eggplant",
+      "day": 1792972800,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:group_coupon_pepper",
+      "day": 1792886400,
+      "average_price_cents": 2181,
+      "low_price_cents": 2163,
+      "high_price_cents": 2190
+    },
+    {
+      "item": "crop:group_coupon_pepper",
+      "day": 1792972800,
+      "average_price_cents": 2113,
+      "low_price_cents": 1489,
+      "high_price_cents": 2347
+    },
+    {
+      "item": "crop:group_shared_clover",
+      "day": 1792972800,
+      "average_price_cents": 1600,
+      "low_price_cents": 1600,
+      "high_price_cents": 1600
+    },
+    {
+      "item": "crop:guess_wordpea",
+      "day": 1792800000,
+      "average_price_cents": 700,
+      "low_price_cents": 700,
+      "high_price_cents": 700
+    },
+    {
+      "item": "crop:guess_wordpea",
+      "day": 1792886400,
+      "average_price_cents": 700,
+      "low_price_cents": 700,
+      "high_price_cents": 700
+    },
+    {
+      "item": "crop:guess_wordpea",
+      "day": 1792972800,
+      "average_price_cents": 700,
+      "low_price_cents": 700,
+      "high_price_cents": 700
+    },
+    {
+      "item": "crop:hint_lantern",
+      "day": 1792800000,
+      "average_price_cents": 2200,
+      "low_price_cents": 2200,
+      "high_price_cents": 2200
+    },
+    {
+      "item": "crop:hint_lantern",
+      "day": 1792886400,
+      "average_price_cents": 2194,
+      "low_price_cents": 2140,
+      "high_price_cents": 2200
+    },
+    {
+      "item": "crop:hint_lantern",
+      "day": 1792972800,
+      "average_price_cents": 1799,
+      "low_price_cents": 1213,
+      "high_price_cents": 2469
+    },
+    {
+      "item": "crop:holy_star_rice",
+      "day": 1792800000,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:holy_star_rice",
+      "day": 1792886400,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:holy_star_rice",
+      "day": 1792972800,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:huan_catmint",
+      "day": 1792800000,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:huan_catmint",
+      "day": 1792886400,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:huan_catmint",
+      "day": 1792972800,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:jev_pepper",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jev_pepper",
+      "day": 1792886400,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jev_pepper",
+      "day": 1792972800,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jev_scale_bean",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jev_scale_bean",
+      "day": 1792886400,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jev_scale_bean",
+      "day": 1792972800,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:jiba_banana",
+      "day": 1792800000,
+      "average_price_cents": 8159,
+      "low_price_cents": 8000,
+      "high_price_cents": 9583
+    },
+    {
+      "item": "crop:jiba_banana",
+      "day": 1792886400,
+      "average_price_cents": 10774,
+      "low_price_cents": 9502,
+      "high_price_cents": 11646
+    },
+    {
+      "item": "crop:jiba_banana",
+      "day": 1792972800,
+      "average_price_cents": 9592,
+      "low_price_cents": 9097,
+      "high_price_cents": 9776
+    },
+    {
+      "item": "crop:kimi_bean",
+      "day": 1792800000,
+      "average_price_cents": 21000,
+      "low_price_cents": 21000,
+      "high_price_cents": 21000
+    },
+    {
+      "item": "crop:kimi_bean",
+      "day": 1792886400,
+      "average_price_cents": 24710,
+      "low_price_cents": 21000,
+      "high_price_cents": 31129
+    },
+    {
+      "item": "crop:kimi_bean",
+      "day": 1792972800,
+      "average_price_cents": 28892,
+      "low_price_cents": 28396,
+      "high_price_cents": 29168
+    },
+    {
+      "item": "crop:linux_penguin_radish",
+      "day": 1792800000,
+      "average_price_cents": 696,
+      "low_price_cents": 695,
+      "high_price_cents": 700
+    },
+    {
+      "item": "crop:linux_penguin_radish",
+      "day": 1792886400,
+      "average_price_cents": 695,
+      "low_price_cents": 695,
+      "high_price_cents": 695
+    },
+    {
+      "item": "crop:linux_penguin_radish",
+      "day": 1792972800,
+      "average_price_cents": 695,
+      "low_price_cents": 695,
+      "high_price_cents": 695
+    },
+    {
+      "item": "crop:linux_pumpkin",
+      "day": 1792800000,
+      "average_price_cents": 33047,
+      "low_price_cents": 32000,
+      "high_price_cents": 34718
+    },
+    {
+      "item": "crop:linux_pumpkin",
+      "day": 1792886400,
+      "average_price_cents": 37901,
+      "low_price_cents": 33588,
+      "high_price_cents": 41584
+    },
+    {
+      "item": "crop:linux_pumpkin",
+      "day": 1792972800,
+      "average_price_cents": 38318,
+      "low_price_cents": 36332,
+      "high_price_cents": 41353
+    },
+    {
+      "item": "crop:llama_woolfruit",
+      "day": 1792800000,
+      "average_price_cents": 29883,
+      "low_price_cents": 29806,
+      "high_price_cents": 30000
+    },
+    {
+      "item": "crop:llama_woolfruit",
+      "day": 1792886400,
+      "average_price_cents": 29806,
+      "low_price_cents": 29806,
+      "high_price_cents": 29806
+    },
+    {
+      "item": "crop:llama_woolfruit",
+      "day": 1792972800,
+      "average_price_cents": 29806,
+      "low_price_cents": 29806,
+      "high_price_cents": 29806
+    },
+    {
+      "item": "crop:lucky_dice_mushroom",
+      "day": 1792800000,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:lucky_dice_mushroom",
+      "day": 1792886400,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:lucky_dice_mushroom",
+      "day": 1792972800,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:malou_mandarin",
+      "day": 1792800000,
+      "average_price_cents": 2201,
+      "low_price_cents": 2200,
+      "high_price_cents": 2202
+    },
+    {
+      "item": "crop:malou_mandarin",
+      "day": 1792886400,
+      "average_price_cents": 2106,
+      "low_price_cents": 1985,
+      "high_price_cents": 2202
+    },
+    {
+      "item": "crop:malou_mandarin",
+      "day": 1792972800,
+      "average_price_cents": 1947,
+      "low_price_cents": 1906,
+      "high_price_cents": 1985
+    },
+    {
+      "item": "crop:meme_sunflower",
+      "day": 1792800000,
+      "average_price_cents": 31111,
+      "low_price_cents": 24000,
+      "high_price_cents": 36034
+    },
+    {
+      "item": "crop:meme_sunflower",
+      "day": 1792886400,
+      "average_price_cents": 33230,
+      "low_price_cents": 32122,
+      "high_price_cents": 35747
+    },
+    {
+      "item": "crop:meme_sunflower",
+      "day": 1792972800,
+      "average_price_cents": 32972,
+      "low_price_cents": 32462,
+      "high_price_cents": 33193
+    },
+    {
+      "item": "crop:mole_mushroom",
+      "day": 1792800000,
+      "average_price_cents": 18397,
+      "low_price_cents": 18000,
+      "high_price_cents": 23037
+    },
+    {
+      "item": "crop:mole_mushroom",
+      "day": 1792886400,
+      "average_price_cents": 25907,
+      "low_price_cents": 23037,
+      "high_price_cents": 26939
+    },
+    {
+      "item": "crop:mole_mushroom",
+      "day": 1792972800,
+      "average_price_cents": 26576,
+      "low_price_cents": 26487,
+      "high_price_cents": 26801
+    },
+    {
+      "item": "crop:muse_mint",
+      "day": 1792800000,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:muse_mint",
+      "day": 1792886400,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:muse_mint",
+      "day": 1792972800,
+      "average_price_cents": 1100,
+      "low_price_cents": 1100,
+      "high_price_cents": 1100
+    },
+    {
+      "item": "crop:naizi_peach",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:naizi_peach",
+      "day": 1792886400,
+      "average_price_cents": 12256,
+      "low_price_cents": 12000,
+      "high_price_cents": 13566
+    },
+    {
+      "item": "crop:naizi_peach",
+      "day": 1792972800,
+      "average_price_cents": 12687,
+      "low_price_cents": 12687,
+      "high_price_cents": 12687
+    },
+    {
+      "item": "crop:nightowl_coffee",
+      "day": 1792800000,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:nightowl_coffee",
+      "day": 1792886400,
+      "average_price_cents": 35851,
+      "low_price_cents": 32000,
+      "high_price_cents": 39165
+    },
+    {
+      "item": "crop:nightowl_coffee",
+      "day": 1792972800,
+      "average_price_cents": 33819,
+      "low_price_cents": 32497,
+      "high_price_cents": 40246
+    },
+    {
+      "item": "crop:nsfw_tulip",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:nsfw_tulip",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:nsfw_tulip",
+      "day": 1792972800,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:opencode_fern",
+      "day": 1792800000,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:opencode_fern",
+      "day": 1792886400,
+      "average_price_cents": 32000,
+      "low_price_cents": 32000,
+      "high_price_cents": 32000
+    },
+    {
+      "item": "crop:opencode_fern",
+      "day": 1792972800,
+      "average_price_cents": 39661,
+      "low_price_cents": 32000,
+      "high_price_cents": 44125
+    },
+    {
+      "item": "crop:polaris_water_berry",
+      "day": 1792800000,
+      "average_price_cents": 23876,
+      "low_price_cents": 23853,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:polaris_water_berry",
+      "day": 1792886400,
+      "average_price_cents": 26103,
+      "low_price_cents": 23853,
+      "high_price_cents": 26509
+    },
+    {
+      "item": "crop:polaris_water_berry",
+      "day": 1792972800,
+      "average_price_cents": 26509,
+      "low_price_cents": 26509,
+      "high_price_cents": 26509
+    },
+    {
+      "item": "crop:pumpkin",
+      "day": 1792800000,
+      "average_price_cents": 2649,
+      "low_price_cents": 1577,
+      "high_price_cents": 4500
+    },
+    {
+      "item": "crop:pumpkin",
+      "day": 1792886400,
+      "average_price_cents": 1831,
+      "low_price_cents": 1577,
+      "high_price_cents": 2239
+    },
+    {
+      "item": "crop:pumpkin",
+      "day": 1792972800,
+      "average_price_cents": 1892,
+      "low_price_cents": 1729,
+      "high_price_cents": 2575
+    },
+    {
+      "item": "crop:queue_bambooshoot",
+      "day": 1792800000,
+      "average_price_cents": 3019,
+      "low_price_cents": 2825,
+      "high_price_cents": 3326
+    },
+    {
+      "item": "crop:queue_bambooshoot",
+      "day": 1792886400,
+      "average_price_cents": 2468,
+      "low_price_cents": 2221,
+      "high_price_cents": 3079
+    },
+    {
+      "item": "crop:queue_bambooshoot",
+      "day": 1792972800,
+      "average_price_cents": 2200,
+      "low_price_cents": 1533,
+      "high_price_cents": 2887
+    },
+    {
+      "item": "crop:qwen_cotton",
+      "day": 1792800000,
+      "average_price_cents": 30000,
+      "low_price_cents": 30000,
+      "high_price_cents": 30000
+    },
+    {
+      "item": "crop:qwen_cotton",
+      "day": 1792886400,
+      "average_price_cents": 33146,
+      "low_price_cents": 30000,
+      "high_price_cents": 37014
+    },
+    {
+      "item": "crop:qwen_cotton",
+      "day": 1792972800,
+      "average_price_cents": 35053,
+      "low_price_cents": 35053,
+      "high_price_cents": 35053
+    },
+    {
+      "item": "crop:r2_cloudberry",
+      "day": 1792800000,
+      "average_price_cents": 30000,
+      "low_price_cents": 30000,
+      "high_price_cents": 30000
+    },
+    {
+      "item": "crop:r2_cloudberry",
+      "day": 1792886400,
+      "average_price_cents": 30000,
+      "low_price_cents": 30000,
+      "high_price_cents": 30000
+    },
+    {
+      "item": "crop:r2_cloudberry",
+      "day": 1792972800,
+      "average_price_cents": 31324,
+      "low_price_cents": 30000,
+      "high_price_cents": 32190
+    },
+    {
+      "item": "crop:shadow_nightberry",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:shadow_nightberry",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:shadow_nightberry",
+      "day": 1792972800,
+      "average_price_cents": 25223,
+      "low_price_cents": 24000,
+      "high_price_cents": 28813
+    },
+    {
+      "item": "crop:soup_cosmos_flower",
+      "day": 1792972800,
+      "average_price_cents": 32509,
+      "low_price_cents": 25497,
+      "high_price_cents": 33137
+    },
+    {
+      "item": "crop:soup_morning_pumpkin",
+      "day": 1792800000,
+      "average_price_cents": 3397,
+      "low_price_cents": 2243,
+      "high_price_cents": 4478
+    },
+    {
+      "item": "crop:soup_morning_pumpkin",
+      "day": 1792886400,
+      "average_price_cents": 3000,
+      "low_price_cents": 2201,
+      "high_price_cents": 3762
+    },
+    {
+      "item": "crop:soup_morning_pumpkin",
+      "day": 1792972800,
+      "average_price_cents": 2720,
+      "low_price_cents": 2007,
+      "high_price_cents": 3427
+    },
+    {
+      "item": "crop:tangping_melon",
+      "day": 1792800000,
+      "average_price_cents": 34576,
+      "low_price_cents": 32000,
+      "high_price_cents": 35012
+    },
+    {
+      "item": "crop:tangping_melon",
+      "day": 1792886400,
+      "average_price_cents": 35012,
+      "low_price_cents": 35012,
+      "high_price_cents": 35012
+    },
+    {
+      "item": "crop:tangping_melon",
+      "day": 1792972800,
+      "average_price_cents": 42599,
+      "low_price_cents": 35012,
+      "high_price_cents": 44338
+    },
+    {
+      "item": "crop:tomato",
+      "day": 1792800000,
+      "average_price_cents": 2347,
+      "low_price_cents": 2200,
+      "high_price_cents": 2487
+    },
+    {
+      "item": "crop:tomato",
+      "day": 1792886400,
+      "average_price_cents": 2246,
+      "low_price_cents": 2098,
+      "high_price_cents": 2487
+    },
+    {
+      "item": "crop:tomato",
+      "day": 1792972800,
+      "average_price_cents": 2038,
+      "low_price_cents": 1953,
+      "high_price_cents": 2098
+    },
+    {
+      "item": "crop:turbo_vine",
+      "day": 1792800000,
+      "average_price_cents": 15000,
+      "low_price_cents": 15000,
+      "high_price_cents": 15000
+    },
+    {
+      "item": "crop:turbo_vine",
+      "day": 1792886400,
+      "average_price_cents": 15000,
+      "low_price_cents": 15000,
+      "high_price_cents": 15000
+    },
+    {
+      "item": "crop:turbo_vine",
+      "day": 1792972800,
+      "average_price_cents": 15000,
+      "low_price_cents": 15000,
+      "high_price_cents": 15000
+    },
+    {
+      "item": "crop:unlucky_bittermelon",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:unlucky_bittermelon",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:unlucky_bittermelon",
+      "day": 1792972800,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:waterchat_cattail",
+      "day": 1792800000,
+      "average_price_cents": 3761,
+      "low_price_cents": 2639,
+      "high_price_cents": 4500
+    },
+    {
+      "item": "crop:waterchat_cattail",
+      "day": 1792886400,
+      "average_price_cents": 2883,
+      "low_price_cents": 2143,
+      "high_price_cents": 3617
+    },
+    {
+      "item": "crop:waterchat_cattail",
+      "day": 1792972800,
+      "average_price_cents": 2708,
+      "low_price_cents": 2018,
+      "high_price_cents": 3220
+    },
+    {
+      "item": "crop:wheat",
+      "day": 1792800000,
+      "average_price_cents": 1843,
+      "low_price_cents": 1600,
+      "high_price_cents": 2057
+    },
+    {
+      "item": "crop:wheat",
+      "day": 1792886400,
+      "average_price_cents": 1996,
+      "low_price_cents": 1856,
+      "high_price_cents": 2138
+    },
+    {
+      "item": "crop:wheat",
+      "day": 1792972800,
+      "average_price_cents": 1794,
+      "low_price_cents": 1339,
+      "high_price_cents": 1966
+    },
+    {
+      "item": "crop:winrate_clover",
+      "day": 1792800000,
+      "average_price_cents": 1600,
+      "low_price_cents": 1600,
+      "high_price_cents": 1600
+    },
+    {
+      "item": "crop:winrate_clover",
+      "day": 1792886400,
+      "average_price_cents": 1600,
+      "low_price_cents": 1600,
+      "high_price_cents": 1600
+    },
+    {
+      "item": "crop:winrate_clover",
+      "day": 1792972800,
+      "average_price_cents": 1600,
+      "low_price_cents": 1600,
+      "high_price_cents": 1600
+    },
+    {
+      "item": "crop:worker_clockflower",
+      "day": 1792800000,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:worker_clockflower",
+      "day": 1792886400,
+      "average_price_cents": 18000,
+      "low_price_cents": 18000,
+      "high_price_cents": 18000
+    },
+    {
+      "item": "crop:worker_clockflower",
+      "day": 1792972800,
+      "average_price_cents": 19547,
+      "low_price_cents": 18000,
+      "high_price_cents": 19792
+    },
+    {
+      "item": "crop:xianyan_dragonfruit",
+      "day": 1792800000,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:xianyan_dragonfruit",
+      "day": 1792886400,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:xianyan_dragonfruit",
+      "day": 1792972800,
+      "average_price_cents": 24000,
+      "low_price_cents": 24000,
+      "high_price_cents": 24000
+    },
+    {
+      "item": "crop:yesno_pistachio",
+      "day": 1792800000,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:yesno_pistachio",
+      "day": 1792886400,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "crop:yesno_pistachio",
+      "day": 1792972800,
+      "average_price_cents": 12000,
+      "low_price_cents": 12000,
+      "high_price_cents": 12000
+    },
+    {
+      "item": "fish:banana",
+      "day": 1792800000,
+      "average_price_cents": 677,
+      "low_price_cents": 500,
+      "high_price_cents": 760
+    },
+    {
+      "item": "fish:banana",
+      "day": 1792886400,
+      "average_price_cents": 745,
+      "low_price_cents": 724,
+      "high_price_cents": 763
+    },
+    {
+      "item": "fish:banana",
+      "day": 1792972800,
+      "average_price_cents": 726,
+      "low_price_cents": 718,
+      "high_price_cents": 730
+    },
+    {
+      "item": "fish:baobao",
+      "day": 1792800000,
+      "average_price_cents": 1107,
+      "low_price_cents": 800,
+      "high_price_cents": 1243
+    },
+    {
+      "item": "fish:baobao",
+      "day": 1792886400,
+      "average_price_cents": 1241,
+      "low_price_cents": 1236,
+      "high_price_cents": 1248
+    },
+    {
+      "item": "fish:baobao",
+      "day": 1792972800,
+      "average_price_cents": 1241,
+      "low_price_cents": 1233,
+      "high_price_cents": 1247
+    },
+    {
+      "item": "fish:bigrice",
+      "day": 1792800000,
+      "average_price_cents": 805,
+      "low_price_cents": 600,
+      "high_price_cents": 933
+    },
+    {
+      "item": "fish:bigrice",
+      "day": 1792886400,
+      "average_price_cents": 931,
+      "low_price_cents": 923,
+      "high_price_cents": 935
+    },
+    {
+      "item": "fish:bigrice",
+      "day": 1792972800,
+      "average_price_cents": 929,
+      "low_price_cents": 917,
+      "high_price_cents": 935
+    },
+    {
+      "item": "fish:bug",
+      "day": 1792800000,
+      "average_price_cents": 950,
+      "low_price_cents": 700,
+      "high_price_cents": 1061
+    },
+    {
+      "item": "fish:bug",
+      "day": 1792886400,
+      "average_price_cents": 1060,
+      "low_price_cents": 1051,
+      "high_price_cents": 1068
+    },
+    {
+      "item": "fish:bug",
+      "day": 1792972800,
+      "average_price_cents": 1064,
+      "low_price_cents": 1057,
+      "high_price_cents": 1068
+    },
+    {
+      "item": "fish:capy",
+      "day": 1792800000,
+      "average_price_cents": 410,
+      "low_price_cents": 300,
+      "high_price_cents": 459
+    },
+    {
+      "item": "fish:capy",
+      "day": 1792886400,
+      "average_price_cents": 457,
+      "low_price_cents": 454,
+      "high_price_cents": 460
+    },
+    {
+      "item": "fish:capy",
+      "day": 1792972800,
+      "average_price_cents": 457,
+      "low_price_cents": 453,
+      "high_price_cents": 461
+    },
+    {
+      "item": "fish:claude",
+      "day": 1792800000,
+      "average_price_cents": 814,
+      "low_price_cents": 600,
+      "high_price_cents": 912
+    },
+    {
+      "item": "fish:claude",
+      "day": 1792886400,
+      "average_price_cents": 888,
+      "low_price_cents": 865,
+      "high_price_cents": 910
+    },
+    {
+      "item": "fish:claude",
+      "day": 1792972800,
+      "average_price_cents": 865,
+      "low_price_cents": 857,
+      "high_price_cents": 872
+    },
+    {
+      "item": "fish:coupon",
+      "day": 1792800000,
+      "average_price_cents": 941,
+      "low_price_cents": 700,
+      "high_price_cents": 1078
+    },
+    {
+      "item": "fish:coupon",
+      "day": 1792886400,
+      "average_price_cents": 1076,
+      "low_price_cents": 1069,
+      "high_price_cents": 1083
+    },
+    {
+      "item": "fish:coupon",
+      "day": 1792972800,
+      "average_price_cents": 1079,
+      "low_price_cents": 1071,
+      "high_price_cents": 1086
+    },
+    {
+      "item": "fish:gemini",
+      "day": 1792800000,
+      "average_price_cents": 1076,
+      "low_price_cents": 800,
+      "high_price_cents": 1201
+    },
+    {
+      "item": "fish:gemini",
+      "day": 1792886400,
+      "average_price_cents": 1178,
+      "low_price_cents": 1140,
+      "high_price_cents": 1212
+    },
+    {
+      "item": "fish:gemini",
+      "day": 1792972800,
+      "average_price_cents": 1147,
+      "low_price_cents": 1133,
+      "high_price_cents": 1157
+    },
+    {
+      "item": "fish:gpt",
+      "day": 1792800000,
+      "average_price_cents": 822,
+      "low_price_cents": 600,
+      "high_price_cents": 921
+    },
+    {
+      "item": "fish:gpt",
+      "day": 1792886400,
+      "average_price_cents": 899,
+      "low_price_cents": 871,
+      "high_price_cents": 923
+    },
+    {
+      "item": "fish:gpt",
+      "day": 1792972800,
+      "average_price_cents": 870,
+      "low_price_cents": 854,
+      "high_price_cents": 878
+    },
+    {
+      "item": "fish:grok",
+      "day": 1792800000,
+      "average_price_cents": 1223,
+      "low_price_cents": 900,
+      "high_price_cents": 1370
+    },
+    {
+      "item": "fish:grok",
+      "day": 1792886400,
+      "average_price_cents": 1368,
+      "low_price_cents": 1354,
+      "high_price_cents": 1380
+    },
+    {
+      "item": "fish:grok",
+      "day": 1792972800,
+      "average_price_cents": 1368,
+      "low_price_cents": 1348,
+      "high_price_cents": 1382
+    },
+    {
+      "item": "fish:holy",
+      "day": 1792800000,
+      "average_price_cents": 1627,
+      "low_price_cents": 1200,
+      "high_price_cents": 1810
+    },
+    {
+      "item": "fish:holy",
+      "day": 1792886400,
+      "average_price_cents": 1813,
+      "low_price_cents": 1796,
+      "high_price_cents": 1826
+    },
+    {
+      "item": "fish:holy",
+      "day": 1792972800,
+      "average_price_cents": 1816,
+      "low_price_cents": 1791,
+      "high_price_cents": 1827
+    },
+    {
+      "item": "fish:huan",
+      "day": 1792800000,
+      "average_price_cents": 540,
+      "low_price_cents": 400,
+      "high_price_cents": 600
+    },
+    {
+      "item": "fish:huan",
+      "day": 1792886400,
+      "average_price_cents": 589,
+      "low_price_cents": 571,
+      "high_price_cents": 606
+    },
+    {
+      "item": "fish:huan",
+      "day": 1792972800,
+      "average_price_cents": 577,
+      "low_price_cents": 569,
+      "high_price_cents": 581
+    },
+    {
+      "item": "fish:ironfish",
+      "day": 1792800000,
+      "average_price_cents": 971,
+      "low_price_cents": 700,
+      "high_price_cents": 1087
+    },
+    {
+      "item": "fish:ironfish",
+      "day": 1792886400,
+      "average_price_cents": 1086,
+      "low_price_cents": 1080,
+      "high_price_cents": 1089
+    },
+    {
+      "item": "fish:ironfish",
+      "day": 1792972800,
+      "average_price_cents": 1088,
+      "low_price_cents": 1082,
+      "high_price_cents": 1091
+    },
+    {
+      "item": "fish:jev",
+      "day": 1792800000,
+      "average_price_cents": 681,
+      "low_price_cents": 500,
+      "high_price_cents": 758
+    },
+    {
+      "item": "fish:jev",
+      "day": 1792886400,
+      "average_price_cents": 758,
+      "low_price_cents": 751,
+      "high_price_cents": 763
+    },
+    {
+      "item": "fish:jev",
+      "day": 1792972800,
+      "average_price_cents": 757,
+      "low_price_cents": 752,
+      "high_price_cents": 763
+    },
+    {
+      "item": "fish:kimi",
+      "day": 1792800000,
+      "average_price_cents": 958,
+      "low_price_cents": 700,
+      "high_price_cents": 1064
+    },
+    {
+      "item": "fish:kimi",
+      "day": 1792886400,
+      "average_price_cents": 1061,
+      "low_price_cents": 1056,
+      "high_price_cents": 1067
+    },
+    {
+      "item": "fish:kimi",
+      "day": 1792972800,
+      "average_price_cents": 1062,
+      "low_price_cents": 1050,
+      "high_price_cents": 1068
+    },
+    {
+      "item": "fish:linux",
+      "day": 1792800000,
+      "average_price_cents": 819,
+      "low_price_cents": 600,
+      "high_price_cents": 911
+    },
+    {
+      "item": "fish:linux",
+      "day": 1792886400,
+      "average_price_cents": 893,
+      "low_price_cents": 868,
+      "high_price_cents": 919
+    },
+    {
+      "item": "fish:linux",
+      "day": 1792972800,
+      "average_price_cents": 870,
+      "low_price_cents": 857,
+      "high_price_cents": 878
+    },
+    {
+      "item": "fish:meme",
+      "day": 1792800000,
+      "average_price_cents": 545,
+      "low_price_cents": 400,
+      "high_price_cents": 610
+    },
+    {
+      "item": "fish:meme",
+      "day": 1792886400,
+      "average_price_cents": 599,
+      "low_price_cents": 583,
+      "high_price_cents": 613
+    },
+    {
+      "item": "fish:meme",
+      "day": 1792972800,
+      "average_price_cents": 583,
+      "low_price_cents": 574,
+      "high_price_cents": 587
+    },
+    {
+      "item": "fish:mole",
+      "day": 1792800000,
+      "average_price_cents": 1360,
+      "low_price_cents": 1000,
+      "high_price_cents": 1515
+    },
+    {
+      "item": "fish:mole",
+      "day": 1792886400,
+      "average_price_cents": 1514,
+      "low_price_cents": 1502,
+      "high_price_cents": 1522
+    },
+    {
+      "item": "fish:mole",
+      "day": 1792972800,
+      "average_price_cents": 1516,
+      "low_price_cents": 1504,
+      "high_price_cents": 1522
+    },
+    {
+      "item": "fish:offwork",
+      "day": 1792800000,
+      "average_price_cents": 839,
+      "low_price_cents": 600,
+      "high_price_cents": 933
+    },
+    {
+      "item": "fish:offwork",
+      "day": 1792886400,
+      "average_price_cents": 929,
+      "low_price_cents": 921,
+      "high_price_cents": 934
+    },
+    {
+      "item": "fish:offwork",
+      "day": 1792972800,
+      "average_price_cents": 932,
+      "low_price_cents": 927,
+      "high_price_cents": 935
+    },
+    {
+      "item": "fish:polaris",
+      "day": 1792800000,
+      "average_price_cents": 1090,
+      "low_price_cents": 800,
+      "high_price_cents": 1242
+    },
+    {
+      "item": "fish:polaris",
+      "day": 1792886400,
+      "average_price_cents": 1239,
+      "low_price_cents": 1227,
+      "high_price_cents": 1245
+    },
+    {
+      "item": "fish:polaris",
+      "day": 1792972800,
+      "average_price_cents": 1243,
+      "low_price_cents": 1236,
+      "high_price_cents": 1247
+    },
+    {
+      "item": "fish:qwen",
+      "day": 1792800000,
+      "average_price_cents": 680,
+      "low_price_cents": 500,
+      "high_price_cents": 759
+    },
+    {
+      "item": "fish:qwen",
+      "day": 1792886400,
+      "average_price_cents": 763,
+      "low_price_cents": 755,
+      "high_price_cents": 769
+    },
+    {
+      "item": "fish:qwen",
+      "day": 1792972800,
+      "average_price_cents": 763,
+      "low_price_cents": 754,
+      "high_price_cents": 770
+    },
+    {
+      "item": "fish:seek",
+      "day": 1792800000,
+      "average_price_cents": 1089,
+      "low_price_cents": 800,
+      "high_price_cents": 1214
+    },
+    {
+      "item": "fish:seek",
+      "day": 1792886400,
+      "average_price_cents": 1187,
+      "low_price_cents": 1149,
+      "high_price_cents": 1218
+    },
+    {
+      "item": "fish:seek",
+      "day": 1792972800,
+      "average_price_cents": 1156,
+      "low_price_cents": 1143,
+      "high_price_cents": 1163
+    },
+    {
+      "item": "fish:soup",
+      "day": 1792800000,
+      "average_price_cents": 838,
+      "low_price_cents": 600,
+      "high_price_cents": 933
+    },
+    {
+      "item": "fish:soup",
+      "day": 1792886400,
+      "average_price_cents": 932,
+      "low_price_cents": 925,
+      "high_price_cents": 935
+    },
+    {
+      "item": "fish:soup",
+      "day": 1792972800,
+      "average_price_cents": 929,
+      "low_price_cents": 922,
+      "high_price_cents": 935
+    },
+    {
+      "item": "fish:waterplease",
+      "day": 1792800000,
+      "average_price_cents": 693,
+      "low_price_cents": 500,
+      "high_price_cents": 776
+    },
+    {
+      "item": "fish:waterplease",
+      "day": 1792886400,
+      "average_price_cents": 775,
+      "low_price_cents": 769,
+      "high_price_cents": 778
+    },
+    {
+      "item": "fish:waterplease",
+      "day": 1792972800,
+      "average_price_cents": 775,
+      "low_price_cents": 766,
+      "high_price_cents": 779
+    }
+  ]
+}

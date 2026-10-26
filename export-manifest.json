@@ -1,0 +1,760 @@
+{
+  "snapshot_at": "2026-10-26T15:43:00.431Z",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 48,
+      "sha256": "5ad893b3cc630d8f9b61c41d05f6c29da4c9d18565b9f3136a52785e443f2fc2"
+    },
+    {
+      "path": "data/catalog.json",
+      "bytes": 54354,
+      "sha256": "ee667edf8dc24513336157f9b3b83df1ea4ee90261fcf05c34c59acc28727cf8"
+    },
+    {
+      "path": "data/market-history.json",
+      "bytes": 53452,
+      "sha256": "bac37af6bc500e5d4f25932bd49e6ee6c2917094eac5ec03f776318b8d4878d7"
+    },
+    {
+      "path": "data/market-summary.json",
+      "bytes": 25194,
+      "sha256": "85fbc130aae5b46cfe21861a73c9e106050664f9a5e1753b2525cf73e5a96ba1"
+    },
+    {
+      "path": "data/queries.sql",
+      "bytes": 382,
+      "sha256": "8fa499100d76cff8d89378577b906d62819f51240a038eb5004cabdfb59f5e38"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 785,
+      "sha256": "4a0690aea3d630e2d458ed6a500fc0c1e02daa5fd8900a5108f9c3b0af8696e3"
+    },
+    {
+      "path": "farm-entry.ts",
+      "bytes": 288,
+      "sha256": "3ba458855144798bac2d0e6679b8af47cdf227d56bc0474910fb334545937535"
+    },
+    {
+      "path": "farm-module.mjs",
+      "bytes": 257336,
+      "sha256": "d51c9b5f34f5905d396251dd89a861735d1f0d921db8574c7220e26c65d46760"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1086,
+      "sha256": "ba7a0dde30552cb766b4f5ceb4c0cdd26532092855e31bb433db447d36a10da9"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 15910,
+      "sha256": "cf1881442e61f89c00eac5b7b3d536d419de508e884ff20c403275a7666b5bde"
+    },
+    {
+      "path": "package.json",
+      "bytes": 428,
+      "sha256": "9a8d37d1044d74dc7546f430d0f4b43d513c49b6e42364c600880e87a98930c8"
+    },
+    {
+      "path": "public/assets/farm/atlas-v1.png",
+      "bytes": 2405310,
+      "sha256": "1fcd4b073e8ecfa795fcd7311c1ff298d52f289b17e18706ee1221ba820d8c1e"
+    },
+    {
+      "path": "public/assets/farm/atlas-v1.webp",
+      "bytes": 529942,
+      "sha256": "eb30781b34004961aca8ff20acec7731a48fb81d7b670457d34af625030bb9e9"
+    },
+    {
+      "path": "public/assets/farm/block-crops-v1/crops-0.webp",
+      "bytes": 24682,
+      "sha256": "e129fa430e371760baeac3c3fc358de036bab7e821c921c4bec725801b220292"
+    },
+    {
+      "path": "public/assets/farm/block-crops-v1/crops-1.webp",
+      "bytes": 24980,
+      "sha256": "c3fadb07c268a3556173ead3908c941cca9dd23598540b632fd6c9be91f2ca2f"
+    },
+    {
+      "path": "public/assets/farm/block-crops-v1/crops-2.webp",
+      "bytes": 25114,
+      "sha256": "d2b0f4e9d91400f096484214f007711cf508ed405c20f9fdd7bad1a5af0bd5be"
+    },
+    {
+      "path": "public/assets/farm/block-crops-v1/crops-3.webp",
+      "bytes": 22426,
+      "sha256": "000dedc6f637ecb57f77509a0f7b9264e76d0aeaa4b1353c6a85c0e2b5654baa"
+    },
+    {
+      "path": "public/assets/farm/block-crops-v1/README.md",
+      "bytes": 305,
+      "sha256": "085c7fc5e4b8723db50c4b4f3b386ea858425160d8919e650535d7d8afed0412"
+    },
+    {
+      "path": "public/assets/farm/coin-52-v2.png",
+      "bytes": 1509829,
+      "sha256": "6e0b74fec7c17da36c1928cd60495ff208eb0f9d68c97cc549e76b0a33f2020d"
+    },
+    {
+      "path": "public/assets/farm/coin-52-v2.webp",
+      "bytes": 192032,
+      "sha256": "dd3ccdbe6388fb76203c486f382609c8fd13a715e0fe11b132092b2efb8d06ea"
+    },
+    {
+      "path": "public/assets/farm/community-v5.webp",
+      "bytes": 120648,
+      "sha256": "a578d9a1f50485002edd74f3abb022e75b2bef4bd2705798438af273745363fe"
+    },
+    {
+      "path": "public/assets/farm/cute-resources-v2.png",
+      "bytes": 1403555,
+      "sha256": "fc58879133f1f3e9fb824bd361334ecb8f5739891869ed14e6bce8bf7a7b70a9"
+    },
+    {
+      "path": "public/assets/farm/cute-resources-v2.webp",
+      "bytes": 256226,
+      "sha256": "664c85d9283b16d4516c538ee0ec0da029619fe20898098e4b5d20d105212ac0"
+    },
+    {
+      "path": "public/assets/farm/dcoin-banana-v1.webp",
+      "bytes": 14190,
+      "sha256": "9b5d4921553f0e632181d19413a56c7d1465b528e1770894e86c470784863089"
+    },
+    {
+      "path": "public/assets/farm/LICENSE.phaser.txt",
+      "bytes": 1120,
+      "sha256": "d59c20a9deb5dc240614b428dce5246ae561d15efeeebea0e069d73f0a78fbff"
+    },
+    {
+      "path": "public/assets/farm/model-species-v1.webp",
+      "bytes": 297892,
+      "sha256": "96feabffed0973a3d3c0882f5b3073573c95973876d4a340f3392be7493e1901"
+    },
+    {
+      "path": "public/assets/farm/phaser-4.2.1.js",
+      "bytes": 1377611,
+      "sha256": "f4c5fd140d118c10fa9090641a03c17303bab9bfdc28e0626296777db1bb1bde"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/animals-theme.webp",
+      "bytes": 352856,
+      "sha256": "b9eb5c4fbac066dc4a5c7348b4af07b8abe43aa4fef6299acbf8cbd9f1030544"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/animals-walk.png",
+      "bytes": 1255714,
+      "sha256": "3b0d61d55cc8eb4da673927117d05733d3381dc805d636c08aa59a10c0eb1e3b"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/crops-theme.webp",
+      "bytes": 465130,
+      "sha256": "7f87469f90ea804e519c59c82d2257f85feea0d6c861e4a0ca69c53585e4850c"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/crops.png",
+      "bytes": 1491326,
+      "sha256": "ff03f97b5f0cfb4729688da7546ea734826d5d41efea68f9fc472659876d666c"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/environment.png",
+      "bytes": 2945276,
+      "sha256": "1665986a4ddb4d7397c61235ce61f614d094745247dbfbb54f2a7579235e8a59"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/fish-v5.webp",
+      "bytes": 268876,
+      "sha256": "1fe3cafad6ccc40d5cf6f477a9adaa348368af6ffd1a860c650efe520631d6fd"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/fish-v6.webp",
+      "bytes": 260404,
+      "sha256": "50736e2c6dc53fcfa4177b6dbcd9eba3457b8bc7bd7e5c5cee774fe70a59d48d"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/fish.webp",
+      "bytes": 363992,
+      "sha256": "22c1c9dec7cde1e7b0962a681aad5785c1545182ac8716a7a8bc32008c12e50d"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/model.webp",
+      "bytes": 160950,
+      "sha256": "1b9d545392901198a3ed5abd13dc0dcbaaf539c98fc3e82dcf715bc0e7dfe073"
+    },
+    {
+      "path": "public/assets/farm/pixel-v3/site.webp",
+      "bytes": 216462,
+      "sha256": "b0645f1427b2fe5038cf4cd46fba283e78cfabd454729d4879fa651287d986f9"
+    },
+    {
+      "path": "public/assets/farm/site-species-v2.webp",
+      "bytes": 292628,
+      "sha256": "0421ef3c162c5958055439072f7a4781056adc2257c5b56a2669b6a469d46bdd"
+    },
+    {
+      "path": "public/assets/farm/soil-gameplay-v1.webp",
+      "bytes": 80126,
+      "sha256": "3121d5dc521951dbebd0bc4da0d81197c394091bb213198e07eebb3a549a11f6"
+    },
+    {
+      "path": "public/assets/farm/theme-species-v1.svg",
+      "bytes": 470008,
+      "sha256": "9a2e27abf5d95ff948a7e00dc720f436b73903c33bffb86e17d3de9ffa1f91f6"
+    },
+    {
+      "path": "public/assets/farm/three-0.186.1/BufferGeometryUtils.js",
+      "bytes": 37724,
+      "sha256": "6d4f4f989a5f7e810522aaa36292205e3674878eed9810563417bd13ab9ba4f2"
+    },
+    {
+      "path": "public/assets/farm/three-0.186.1/LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "public/assets/farm/three-0.186.1/OrbitControls.js",
+      "bytes": 40767,
+      "sha256": "30386f7141d5ce5d5e0a3ab643e4eb16265f4564466108105ce449857f62fdda"
+    },
+    {
+      "path": "public/assets/farm/three-0.186.1/three.core.js",
+      "bytes": 1458113,
+      "sha256": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6"
+    },
+    {
+      "path": "public/assets/farm/three-0.186.1/three.module.js",
+      "bytes": 662772,
+      "sha256": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+    },
+    {
+      "path": "public/assets/farm-memorial/atlas.png",
+      "bytes": 1753972,
+      "sha256": "cc6f30ee6e9458537f8c599f0a845caba1c9a0e0ba2bb93d772c915cb738f4aa"
+    },
+    {
+      "path": "public/assets/farm-memorial/frame.png",
+      "bytes": 735239,
+      "sha256": "6b1febd545ce752deec879e66eb1ff8c1cbae8bd31749e077d5cd73e83059809"
+    },
+    {
+      "path": "public/farm-assets.js",
+      "bytes": 3167,
+      "sha256": "d9620058b4b1997f52908ddb9fdbfe8967ecaceb3834c6578af47f98d141d0a6"
+    },
+    {
+      "path": "public/farm-block-crops.js",
+      "bytes": 4249,
+      "sha256": "9f17801c222bb906d2d9e7b390b026d3e7cabcf7e1ca0ef035b69707f4f98c90"
+    },
+    {
+      "path": "public/farm-brush.js",
+      "bytes": 2420,
+      "sha256": "a6c792be1e7f000e5274867816e7b0935ab4ed6762b205be29231e969f89b396"
+    },
+    {
+      "path": "public/farm-client.js",
+      "bytes": 4302,
+      "sha256": "741a03179e45b6df46df55692d002c5488cd6108eec6d271c671178913da26b1"
+    },
+    {
+      "path": "public/farm-conflict-rules.js",
+      "bytes": 1942,
+      "sha256": "505c20d0dc1366a36079f1d917f49d89eeb2dfc5c674ef7afcbf801680d28e45"
+    },
+    {
+      "path": "public/farm-conflict.js",
+      "bytes": 22289,
+      "sha256": "2855f2001eb1294649ced668b7601b58e1f0937af738342238dd3ea94da1a79f"
+    },
+    {
+      "path": "public/farm-crop-care.js",
+      "bytes": 1439,
+      "sha256": "4382e6106064f3f7fad4d272778d30123df7096eba2cf00832bd09b3bdb78c96"
+    },
+    {
+      "path": "public/farm-farewell.js",
+      "bytes": 2089,
+      "sha256": "3bcf208332f41efa2dcebb1536e90ce44bf67a421a9760095a18e3bd67022362"
+    },
+    {
+      "path": "public/farm-fish-art.js",
+      "bytes": 444,
+      "sha256": "fe1cd4469fa4facee02df476c698fbd6888e732c706ff98ce1b0253a7d0074d6"
+    },
+    {
+      "path": "public/farm-fishing-game.js",
+      "bytes": 2590,
+      "sha256": "241f34545ee884db3637b76c9a307e454c541a3ee66d318fc6acbcef5f3569c2"
+    },
+    {
+      "path": "public/farm-guardian-motion.js",
+      "bytes": 1020,
+      "sha256": "d6aa1daf095835225a73fc84e5d7e9dd493099d245c46839613bddf13d4e211a"
+    },
+    {
+      "path": "public/farm-guardian.js",
+      "bytes": 2129,
+      "sha256": "55eed17303f268c3a2e81357105b4cb1c9a23ebf5db6d67be514de6ad9a9ce9d"
+    },
+    {
+      "path": "public/farm-herd.js",
+      "bytes": 5762,
+      "sha256": "45d91bd57a2c4206473e7868aea6501aed632d361d5b7ea1ce10ffb2b19732c5"
+    },
+    {
+      "path": "public/farm-leases.js",
+      "bytes": 13922,
+      "sha256": "9eb2ad4036266dbe2ccb206d59b983a5af5e7348f63ea932377648e0807d9351"
+    },
+    {
+      "path": "public/farm-leisure-world.js",
+      "bytes": 9691,
+      "sha256": "8c4e1cd4d3d5dfba568407574f7308958280dd94c11564d5e3b58d534767a0d2"
+    },
+    {
+      "path": "public/farm-leisure.css",
+      "bytes": 6397,
+      "sha256": "4e449600239a66afbd4b0264463b3489a121a72639a0436263db52f843d3e877"
+    },
+    {
+      "path": "public/farm-leisure.js",
+      "bytes": 11833,
+      "sha256": "cfbbdea427c7ebe99c15c4a0e4347607f2faad2c9957f0ec8eb84d987bc9603f"
+    },
+    {
+      "path": "public/farm-management.js",
+      "bytes": 3835,
+      "sha256": "2e49c71cb17e089c54b8765d7e44262359569044af741039f6e651bb96d4948e"
+    },
+    {
+      "path": "public/farm-market-visuals.js",
+      "bytes": 4227,
+      "sha256": "f92796b8a2f9b2138c890a717c536114af02b90c74abbe60ccf5f22704e09131"
+    },
+    {
+      "path": "public/farm-market.css",
+      "bytes": 25165,
+      "sha256": "8dcb6b1a90300bea9dabaedc72b905416181f6d41cc9201b7d48be6cc67955f5"
+    },
+    {
+      "path": "public/farm-market.js",
+      "bytes": 25181,
+      "sha256": "6c4651280c413610697d1471d95d03a0dda05b265fd5f9031b762d1cd01f6775"
+    },
+    {
+      "path": "public/farm-memorial.css",
+      "bytes": 1614,
+      "sha256": "1dba2452a7d0009cacb134e5c21aff6ae022d071254b1f904782314e65e2949e"
+    },
+    {
+      "path": "public/farm-motion.js",
+      "bytes": 913,
+      "sha256": "45a62229b73e4b35735059c8e6ee68f2a5d82296ea855fd5cfb4a8fa8b8933aa"
+    },
+    {
+      "path": "public/farm-panel-clock.js",
+      "bytes": 827,
+      "sha256": "3fb7c7e67ddc9a5d7521c0576fe6f6e372c990e7b86a4cf1c07452c808072692"
+    },
+    {
+      "path": "public/farm-panels.js",
+      "bytes": 6453,
+      "sha256": "1692f16b70fb36343473fff96612f09fd7d91464f77d9288bb76b0fe18c04eea"
+    },
+    {
+      "path": "public/farm-pigs.js",
+      "bytes": 3664,
+      "sha256": "3b36dc9886358b89f87d20f8e1d8d8dc893095785fcaa5e29fa2945fa7589995"
+    },
+    {
+      "path": "public/farm-pixel.css",
+      "bytes": 5418,
+      "sha256": "9e5291f47cada4f271a3eddebd848969f8c6f7ea27be0a387e82c4fb44c2af89"
+    },
+    {
+      "path": "public/farm-plot-view.js",
+      "bytes": 1528,
+      "sha256": "184b4eca32766abc62c8c224b751f75afa42e993a4c96ea990682968a077f45a"
+    },
+    {
+      "path": "public/farm-pointer.js",
+      "bytes": 2202,
+      "sha256": "95db10fd1169efec8c5ebf6cab8ac5d12df0780d7be1e9883633d735f5c7477e"
+    },
+    {
+      "path": "public/farm-pond-pixel.js",
+      "bytes": 10585,
+      "sha256": "4ed8de231c6e3ce7b47b69ec7eba860b81d7ec04b8f230139b5ff9da05ab5cc0"
+    },
+    {
+      "path": "public/farm-preferences.js",
+      "bytes": 919,
+      "sha256": "1b4c7d58ba2c976894fb93bbb32d628b3d3e2157693dfdaa1d70c16ac46ddfb2"
+    },
+    {
+      "path": "public/farm-quantity.js",
+      "bytes": 1016,
+      "sha256": "af6de3c0fbeaf7f17b02ea7ca87dc451e04d3a3ab8bef2f6027a33f8d5e3fffc"
+    },
+    {
+      "path": "public/farm-ranch.js",
+      "bytes": 6988,
+      "sha256": "45c7ecb46ab876f5fa1d29d719f5fb12e2cbdbe4a6a867c88c06dce75e5d3f39"
+    },
+    {
+      "path": "public/farm-roaming.js",
+      "bytes": 995,
+      "sha256": "3185eb0fa74e775ace4654eb81c58e5f83f9b3876e0ede5a11c50e9cedd2e925"
+    },
+    {
+      "path": "public/farm-social.js",
+      "bytes": 19669,
+      "sha256": "9f67bd12c90f3b624e7d92a223ff91a3135bf2c06eedf129c629281005389eba"
+    },
+    {
+      "path": "public/farm-theme-looks.js",
+      "bytes": 3963,
+      "sha256": "284c99cea8b4a88070f91266d70dd725479185b1522d7b0d1425dc7928a21f9e"
+    },
+    {
+      "path": "public/farm-ui.js",
+      "bytes": 2630,
+      "sha256": "5a7629d0d7ae985c66420e9baea2dc8d489fba95c33378bd511c24ab705d91ec"
+    },
+    {
+      "path": "public/farm-voxel-catalog.js",
+      "bytes": 1394,
+      "sha256": "0e792839b10c78aef88ad9afadff0e9f8c41ab335f38b3cdbcd1de70daf0522d"
+    },
+    {
+      "path": "public/farm-voxel-models.js",
+      "bytes": 10447,
+      "sha256": "ea954a7c7a353ed0955935f675695e18a1e056a48473fb796c666a090f48b16c"
+    },
+    {
+      "path": "public/farm-wallet.js",
+      "bytes": 4240,
+      "sha256": "908de07d01fae0be77ca42dadc2c3734eec4f8217e1d288e528024951f1856f2"
+    },
+    {
+      "path": "public/farm-world-pixel.js",
+      "bytes": 20630,
+      "sha256": "908450bac12138c53c1c1a2cd273328e2be29e086a3adb2df142cd911a39c042"
+    },
+    {
+      "path": "public/farm-world-voxel.js",
+      "bytes": 19412,
+      "sha256": "3a145af05d174671e8066bdb57a63816fc993842a5e5305767db2b8526475bee"
+    },
+    {
+      "path": "public/farm-world.js",
+      "bytes": 16178,
+      "sha256": "95ca50c63f9802ac2096950305a554d0f66e0acb1eb8187343661ba132fdd5ac"
+    },
+    {
+      "path": "public/farm.css",
+      "bytes": 27594,
+      "sha256": "07f16bddbf24ff763d78b3da4d12fb725b24695bd497869613b7cf43b4f369bd"
+    },
+    {
+      "path": "public/farm.js",
+      "bytes": 41321,
+      "sha256": "ed83a66ad578e908b42cb6cdcaadb1a5254602785e46cc6e0913308a94bed5f4"
+    },
+    {
+      "path": "public/title-collection.js",
+      "bytes": 7682,
+      "sha256": "effa6c375bfae1924113650bc1e0164587411de66b9827afc3f934d26ec0f75e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2674,
+      "sha256": "46302e442dec50711aa54ada7eb08809e101afb88d4f5514002aa248c995ae1f"
+    },
+    {
+      "path": "schema.sql",
+      "bytes": 197059,
+      "sha256": "5e70d11641b8fe78a35020809c39b368f6de99c83cd7ac876aabdb50630c737d"
+    },
+    {
+      "path": "src/community-growth.ts",
+      "bytes": 3517,
+      "sha256": "abb318836536c73956c3a0bc15d583316f07367b2eb545aeca44ba3a196e289c"
+    },
+    {
+      "path": "src/farm/action-limit.ts",
+      "bytes": 845,
+      "sha256": "cf96e79e1c758f23783127b5421b33423bf618ff27c08e8cd5a42e9cb445ccee"
+    },
+    {
+      "path": "src/farm/badges.ts",
+      "bytes": 2192,
+      "sha256": "a7c68a61b81920134bfcbd3715dfdf43d838676d52f4de8ef3da4ad49796fbf0"
+    },
+    {
+      "path": "src/farm/capacity.ts",
+      "bytes": 438,
+      "sha256": "eb3018f009813c98b0b3fc1b3c445339c6216e293c539a64e20d8d429ca7647f"
+    },
+    {
+      "path": "src/farm/care.ts",
+      "bytes": 787,
+      "sha256": "abb90e93638a1722553a84f5e84bc2dce804f3741bbdba04f3b8b9be18f0bed9"
+    },
+    {
+      "path": "src/farm/coin-packets.ts",
+      "bytes": 8744,
+      "sha256": "e74fb0d66c89f756581ac5f19c0f08c7d34a03aa4745d69aa0f13070f5b153b8"
+    },
+    {
+      "path": "src/farm/community-species.ts",
+      "bytes": 2656,
+      "sha256": "23b697a3ac8a10c91faaaed1eca61108a6776cdca949d1703e5d02c6ef92998e"
+    },
+    {
+      "path": "src/farm/compensation.ts",
+      "bytes": 290,
+      "sha256": "df83f1f46b5bb37830eca87e924fc178cf8d723d7c612b6457b3fb8bcb1b2b63"
+    },
+    {
+      "path": "src/farm/conflict-rules.ts",
+      "bytes": 2123,
+      "sha256": "4999c4ab757b91c6ea39ab7d0bd36bda2764c9290c65f17947b94de2caa1f699"
+    },
+    {
+      "path": "src/farm/conflict.ts",
+      "bytes": 26249,
+      "sha256": "d09242581538f280f7079839c0400433481ffa3156ba27da23fe66c3b8038f31"
+    },
+    {
+      "path": "src/farm/farewell-value.ts",
+      "bytes": 4590,
+      "sha256": "0543e9c01cf98e7cc8932c41e7475cc271b9a96d958fbffa1fb7c8b00ebd92b1"
+    },
+    {
+      "path": "src/farm/farewell.ts",
+      "bytes": 6969,
+      "sha256": "652c9f7c22eee092618e6e7dd8c74e7baad17b1468d8e7c29e5daca632216ce1"
+    },
+    {
+      "path": "src/farm/fishing-catalog.ts",
+      "bytes": 1776,
+      "sha256": "f580dca9c05c4b56b2e280ef52e92617947a936a828d04ead0f64abf02bed01a"
+    },
+    {
+      "path": "src/farm/fishing-v3.ts",
+      "bytes": 7733,
+      "sha256": "4d33381c835d8796607ca77c5aa5da84901898215bc138b8f162cd960f95afe6"
+    },
+    {
+      "path": "src/farm/guardian.ts",
+      "bytes": 3354,
+      "sha256": "a9be46bfc401b7c45f4cb535d91240dc2a18105c0f715eb3098d370c020e91ac"
+    },
+    {
+      "path": "src/farm/lease-batch.ts",
+      "bytes": 6903,
+      "sha256": "7ee9b988b5fdd7ad1b899a0d67262008207469b9c46e2e19f458bc7fc1ce6a9f"
+    },
+    {
+      "path": "src/farm/lease-buyback.ts",
+      "bytes": 6081,
+      "sha256": "ced423ded95e88950d7358434270f0073bdcaa6ede4d7ea6f52ba0c94691f5db"
+    },
+    {
+      "path": "src/farm/lease-scene.ts",
+      "bytes": 3760,
+      "sha256": "ed91b853734004cf691b38ba63876205c1ad97cefb5927cf9e160a9e1c5edcf5"
+    },
+    {
+      "path": "src/farm/leases.ts",
+      "bytes": 5806,
+      "sha256": "60ef2b8f4b6d4310819cafb577fc239f96adb7a5bab5ae73fef96afe9175acc8"
+    },
+    {
+      "path": "src/farm/leisure.ts",
+      "bytes": 7951,
+      "sha256": "e9082128d85d43dae8101bc9574824d082b9d4b2359d4e4ab8a29b98d54950b1"
+    },
+    {
+      "path": "src/farm/lifecycle.ts",
+      "bytes": 309,
+      "sha256": "4e3339e0ecc9d59a5629a57047703c6e771cf5a949cb8633613fe4240f4c7d3c"
+    },
+    {
+      "path": "src/farm/market-age.ts",
+      "bytes": 600,
+      "sha256": "635c5756bd7065b5c7b462452868c487631d2a38efcd6cd2e7dcef70045abd60"
+    },
+    {
+      "path": "src/farm/market-bulk.ts",
+      "bytes": 7900,
+      "sha256": "af2e37cc85f6d5575ec341626fec52e793ae7ca5d7a8c5b86d3682c089c27f4b"
+    },
+    {
+      "path": "src/farm/market-import.ts",
+      "bytes": 1358,
+      "sha256": "fa50ddea2d0aa94da7444093e3358d0fb5b6dc2fa0ff91f6add8941f538a8877"
+    },
+    {
+      "path": "src/farm/market-quotes.ts",
+      "bytes": 1592,
+      "sha256": "f5815e991854d2409c227896390d5785432fd78fe7aca3c855ebb600c03455b1"
+    },
+    {
+      "path": "src/farm/market-reserve.ts",
+      "bytes": 1285,
+      "sha256": "f0807f0130bbd5f88b958d7608ca9bdc1e81970ba682822004b8dc91ae35a24b"
+    },
+    {
+      "path": "src/farm/market-rules.ts",
+      "bytes": 3054,
+      "sha256": "6ff70510995256d7f4dddf6bdc2de36282905e4f14fa9cd36308e0e852c3a4be"
+    },
+    {
+      "path": "src/farm/market-shop.ts",
+      "bytes": 2515,
+      "sha256": "849d0174f398f9825471177ad2b299e8669d877dd92461474c8e13935203658e"
+    },
+    {
+      "path": "src/farm/market-stock.ts",
+      "bytes": 4632,
+      "sha256": "203290851154517cee26834ebce8925ae6dd842cd00f3cca081fe496e4f29394"
+    },
+    {
+      "path": "src/farm/market.ts",
+      "bytes": 11933,
+      "sha256": "4f1f070ec4a62414ea41e829aa68999ce4a348be2457e289fa047b141c7227af"
+    },
+    {
+      "path": "src/farm/ranch.ts",
+      "bytes": 8455,
+      "sha256": "9aec46d52b464b5b1df941cfb40a260f0df8b170ede44f55bcff11e777944538"
+    },
+    {
+      "path": "src/farm/rules.ts",
+      "bytes": 16366,
+      "sha256": "d365c2ad09d29ee0df53fe94f257742394d5b4dfc06cacf9ae3c5feb35ce0ce9"
+    },
+    {
+      "path": "src/farm/social.ts",
+      "bytes": 6870,
+      "sha256": "162a655a32c2bac0b5d9310b91bb34ba5f621d3f0788e8c7160ed4d3b35dcb6f"
+    },
+    {
+      "path": "src/farm/stock-origin.ts",
+      "bytes": 1240,
+      "sha256": "3668dada9670a1a3bd60033a8fc3948569421d4e6492e8b932fe36d0b8a7c1a5"
+    },
+    {
+      "path": "src/farm/theme-species.ts",
+      "bytes": 6521,
+      "sha256": "777f611e3fc01f582fdf7897ffdc2dff26d3d1dabe4eaadaf998bb82c5970395"
+    },
+    {
+      "path": "src/farm/visit-batch.ts",
+      "bytes": 1018,
+      "sha256": "8ff07c404bcff02b6e9bebc6593437c36be90e208a8f7b4b5bb1ac9bba52f8d4"
+    },
+    {
+      "path": "src/farm/visit-outing.ts",
+      "bytes": 9229,
+      "sha256": "a61a7ed875faf519b2c1f6a78c715fa1fecb809abdac2cc2603ff58037ca23ef"
+    },
+    {
+      "path": "src/farm/visit-rules.ts",
+      "bytes": 290,
+      "sha256": "08871a2b19b79674de961f6178d005f12b738d4efac8b4a6545710bafcd54957"
+    },
+    {
+      "path": "src/farm/visit-store.ts",
+      "bytes": 1761,
+      "sha256": "694b8188b249fa533919e1470e4c47c2bb60a76f61dc0449b9e75b9b3fcf1004"
+    },
+    {
+      "path": "src/farm/wallet.ts",
+      "bytes": 4316,
+      "sha256": "ba37de83dccbc9b561e256b7f20d07ae6d3913b6f82aaad900c8a49d90b000ee"
+    },
+    {
+      "path": "src/lib/crypto.ts",
+      "bytes": 1046,
+      "sha256": "3edeedb2f230a765dd04b089a0452aabfa0b80ef377f52650733a367a7c27b49"
+    },
+    {
+      "path": "src/lib/http.ts",
+      "bytes": 1496,
+      "sha256": "67998798670d2d9a5fdc50a8c05213d6606000e9017992579b52667af1c73e44"
+    },
+    {
+      "path": "src/lib/time.ts",
+      "bytes": 56,
+      "sha256": "ec4c036ec1f197ef52cf42862430a6e011d5e181bd814b121f6b1f0e9a08cb2b"
+    },
+    {
+      "path": "src/routes/farm-conflict.ts",
+      "bytes": 9428,
+      "sha256": "8cdc443cf2cbf5f0f96a8ebbccdd0a57800628851f8306d5d3c11fc6487be852"
+    },
+    {
+      "path": "src/routes/farm-farewell.ts",
+      "bytes": 1397,
+      "sha256": "1cf900b0060b71acc679da45fac91b875d253da59c75d03f3de723af7a49dc0e"
+    },
+    {
+      "path": "src/routes/farm-leases.ts",
+      "bytes": 12028,
+      "sha256": "27069a949d55fc6ba63f7fa848c3822ce561d5035ac42198bc00ae5d3e57ad06"
+    },
+    {
+      "path": "src/routes/farm-market.ts",
+      "bytes": 5547,
+      "sha256": "52b78dca65a8237299ea930e24f0ed687b7c177bc1cb003618141917eabbc60a"
+    },
+    {
+      "path": "src/routes/farm-social.ts",
+      "bytes": 12066,
+      "sha256": "3f3e444dcf221e1b7f1e62d134338511ae4c3775b7f463ae9b56a37be95c78b3"
+    },
+    {
+      "path": "src/routes/farm.ts",
+      "bytes": 9057,
+      "sha256": "2c94e17680eb3da5edb8d6fa93aef725688849a32efdce34904ac900b16289e5"
+    },
+    {
+      "path": "src/services/auth.ts",
+      "bytes": 1858,
+      "sha256": "4ffea89c3a4878ee49f38a558411f7ef5fd92a671003baf396c76ff8c853146b"
+    },
+    {
+      "path": "src/shared/community-growth.ts",
+      "bytes": 3309,
+      "sha256": "a9db37537e9d50bb9d692e01e6674fbf5af51ec7f8e5c25c65243d51e4f7c55d"
+    },
+    {
+      "path": "src/shared/crop-care.ts",
+      "bytes": 2048,
+      "sha256": "8a995dc0407ebaf16a4312a93eb850cbf7933c26415eaf52bdd101ef07525cd1"
+    },
+    {
+      "path": "src/shared/farm-badges.ts",
+      "bytes": 3619,
+      "sha256": "9d43a61dc1e1a37949961bd777bee4b7b37248e74d74ddd0975acf7d4a84896b"
+    },
+    {
+      "path": "src/shared/fishing-game.ts",
+      "bytes": 2218,
+      "sha256": "b64f3cee49b01d119ce8f1fa081af7ee1243a2dcc56a90df9d4d8095a793b74c"
+    },
+    {
+      "path": "src/shared/navigation.ts",
+      "bytes": 212,
+      "sha256": "73ff32f2155169f980b164ef8c35256fc21e862abb66215f0bb10e67e66805f6"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 876,
+      "sha256": "852ac8e20db6fced849c863048c71741ec76ff14a06e05dba4b01e254909f573"
+    }
+  ]
+}

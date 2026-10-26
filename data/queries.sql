@@ -1,0 +1,2 @@
+SELECT item,base_cents,price_cents,fresh_qty,effective_qty,sold_flow,bought_flow,tick_at FROM farm_market_goods ORDER BY item;
+SELECT item,(tick_at/86400)*86400 AS day,ROUND(AVG(price_cents)) AS average_price_cents,MIN(price_cents) AS low_price_cents,MAX(price_cents) AS high_price_cents FROM farm_market_ticks WHERE tick_at>=unixepoch()-7*86400 GROUP BY item,day ORDER BY item,day;

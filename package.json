@@ -1,0 +1,18 @@
+{
+  "name": "meme-hall-farm",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild farm-entry.ts --bundle --format=esm --platform=browser --packages=external --outfile=dist/farm.mjs"
+  },
+  "dependencies": {
+    "hono": "4.13.9"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3",
+    "@cloudflare/workers-types": "5.20261012.1"
+  }
+}
