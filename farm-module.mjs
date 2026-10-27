@@ -1813,6 +1813,7 @@ async function rentLeaseBatch(db, uid, b, t) {
    AND NOT EXISTS(SELECT 1 FROM json_each(?11) j LEFT JOIN farm_saves f ON f.user_id=json_extract(j.value,'$.owner_id')
     WHERE f.user_id IS NULL OR f.revision<>json_extract(j.value,'$.owner_revision')
     OR (json_extract(j.value,'$.forced')=1 AND f.owner_operated_at>?6-${LEASE_IDLE})
+    OR (json_extract(j.value,'$.forced')=1 AND EXISTS(SELECT 1 FROM farm_lease_buybacks b WHERE b.owner_id=f.user_id AND b.plot=json_extract(j.value,'$.plot')))
     OR (json_extract(j.value,'$.forced')=0 AND NOT EXISTS(SELECT 1 FROM farm_lease_offers o WHERE o.owner_id=f.user_id AND o.plot=json_extract(j.value,'$.plot') AND o.price=json_extract(j.value,'$.price') AND o.days=json_extract(j.value,'$.days')))
     OR EXISTS(SELECT 1 FROM farm_leases l WHERE l.owner_id=f.user_id AND l.plot=json_extract(j.value,'$.plot') AND l.state='active')) RETURNING attempt`).bind(uid, b.id, hash, attempt, JSON.stringify(result), t, tenant.revision, tenant.wallet_revision, total, deltaJson, leaseJson),
     db.prepare(`INSERT INTO farm_leases(id,owner_id,tenant_id,plot,price,started_at,expires_at,forced,state,crop_state,attempt)
@@ -1922,9 +1923,11 @@ farmLeases.get("/api/farm/leases/market", async (c) => {
     return p && !p.crop ? [{ owner_id: o.owner_id, name: o.name, plot: o.plot, price: o.price, days: o.days, forced: false }] : [];
   }), ...idle.slice(0, 20).flatMap((o) => JSON.parse(o.state).plots.flatMap((p, plot) => !p.crop ? [{ owner_id: o.owner_id, name: o.name, plot, ...LEASE_DEFAULT, forced: true }] : []))];
   const ids = [...new Set(candidates.map((x) => x.owner_id))], locks = ids.length ? (await db.prepare(`SELECT owner_id,plot FROM farm_leases WHERE owner_id IN(${ids.map(() => "?").join(",")}) AND state='active'`).bind(...ids).all()).results : [];
+  const reclaimed = ids.length ? (await db.prepare(`SELECT DISTINCT owner_id,plot FROM farm_lease_buybacks WHERE owner_id IN(${ids.map(() => "?").join(",")})`).bind(...ids).all()).results : [];
+  const protectedPlots = new Set(reclaimed.map((x) => x.owner_id + ":" + x.plot));
   const unavailable = new Set(locks.map((x) => x.owner_id + ":" + x.plot)), seen = /* @__PURE__ */ new Set(), items = candidates.filter((x) => {
     const key = x.owner_id + ":" + x.plot;
-    if (unavailable.has(key) || seen.has(key)) return false;
+    if (unavailable.has(key) || seen.has(key) || x.forced && protectedPlots.has(key)) return false;
     seen.add(key);
     return true;
   });
@@ -1972,6 +1975,7 @@ farmLeases.post("/api/farm/leases/rent", async (c) => {
    AND EXISTS(SELECT 1 FROM coin52_wallets WHERE user_id=?3 AND revision=?13 AND balance>=?5)
    AND EXISTS(SELECT 1 FROM coin52_wallets WHERE user_id=?2 AND balance<=9007199254740991-?5)
    AND (?8=1 OR EXISTS(SELECT 1 FROM farm_lease_offers WHERE owner_id=?2 AND plot=?4 AND price=?5 AND days=?14))
+   AND (?8=0 OR NOT EXISTS(SELECT 1 FROM farm_lease_buybacks WHERE owner_id=?2 AND plot=?4))
    AND NOT EXISTS(SELECT 1 FROM farm_leases WHERE owner_id=?2 AND plot=?4 AND state='active') RETURNING id`).bind(id, owner, u.id, plot, offer.price, t, expires, b.forced ? 1 : 0, JSON.stringify(emptyLeasePlot()), attempt, ownerRow.revision, tenant.revision, tenant.wallet_revision, offer.days),
     db.prepare(`INSERT INTO coin52_ledger(user_id,kind,ref,attempt,delta,balance_after,created_at) SELECT user_id,CASE WHEN user_id=? THEN 'farm-rent-pay' ELSE 'farm-rent-income' END,?,?,CASE WHEN user_id=? THEN -? ELSE ? END,balance+CASE WHEN user_id=? THEN -? ELSE ? END,? FROM coin52_wallets WHERE user_id IN(?,?) AND ${gate2}`).bind(u.id, id, attempt, u.id, offer.price, offer.price, u.id, offer.price, offer.price, t, u.id, owner, attempt),
     db.prepare(`UPDATE coin52_wallets SET balance=balance+CASE WHEN user_id=? THEN -? ELSE ? END,revision=revision+1,updated_at=? WHERE user_id IN(?,?) AND ${gate2}`).bind(u.id, offer.price, offer.price, t, u.id, owner, attempt),

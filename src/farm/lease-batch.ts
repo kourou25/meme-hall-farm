@@ -33,6 +33,7 @@ export async function rentLeaseBatch(db:D1Database,uid:number,b:Record<string,un
    AND NOT EXISTS(SELECT 1 FROM json_each(?11) j LEFT JOIN farm_saves f ON f.user_id=json_extract(j.value,'$.owner_id')
     WHERE f.user_id IS NULL OR f.revision<>json_extract(j.value,'$.owner_revision')
     OR (json_extract(j.value,'$.forced')=1 AND f.owner_operated_at>?6-${LEASE_IDLE})
+    OR (json_extract(j.value,'$.forced')=1 AND EXISTS(SELECT 1 FROM farm_lease_buybacks b WHERE b.owner_id=f.user_id AND b.plot=json_extract(j.value,'$.plot')))
     OR (json_extract(j.value,'$.forced')=0 AND NOT EXISTS(SELECT 1 FROM farm_lease_offers o WHERE o.owner_id=f.user_id AND o.plot=json_extract(j.value,'$.plot') AND o.price=json_extract(j.value,'$.price') AND o.days=json_extract(j.value,'$.days')))
     OR EXISTS(SELECT 1 FROM farm_leases l WHERE l.owner_id=f.user_id AND l.plot=json_extract(j.value,'$.plot') AND l.state='active')) RETURNING attempt`)
    .bind(uid,b.id,hash,attempt,JSON.stringify(result),t,tenant.revision,tenant.wallet_revision,total,deltaJson,leaseJson),

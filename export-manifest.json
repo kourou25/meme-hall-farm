@@ -38,8 +38,8 @@
     },
     {
       "path": "farm-module.mjs",
-      "bytes": 257336,
-      "sha256": "d51c9b5f34f5905d396251dd89a861735d1f0d921db8574c7220e26c65d46760"
+      "bytes": 257906,
+      "sha256": "23e58740ed13f166c77843993e4f7241d17a1079e0dd2960f13d2c57548eabc6"
     },
     {
       "path": "LICENSE",
@@ -303,8 +303,8 @@
     },
     {
       "path": "public/farm-leases.js",
-      "bytes": 13922,
-      "sha256": "9eb2ad4036266dbe2ccb206d59b983a5af5e7348f63ea932377648e0807d9351"
+      "bytes": 14045,
+      "sha256": "7885aa2f7f3c68ffb7497c6917de4a107929e8519d2ec279cae5a701b711895d"
     },
     {
       "path": "public/farm-leisure-world.js",
@@ -468,8 +468,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2674,
-      "sha256": "46302e442dec50711aa54ada7eb08809e101afb88d4f5514002aa248c995ae1f"
+      "bytes": 2995,
+      "sha256": "4711268e6440e65d025c141fb09775b16a6866f8106f6ba344bd0c74c5aa056b"
     },
     {
       "path": "schema.sql",
@@ -553,8 +553,8 @@
     },
     {
       "path": "src/farm/lease-batch.ts",
-      "bytes": 6903,
-      "sha256": "7ee9b988b5fdd7ad1b899a0d67262008207469b9c46e2e19f458bc7fc1ce6a9f"
+      "bytes": 7064,
+      "sha256": "8d74c0965643e79c78a55efe920ead556ef9ec62adff16e10c00e602f71b68fd"
     },
     {
       "path": "src/farm/lease-buyback.ts",
@@ -703,8 +703,8 @@
     },
     {
       "path": "src/routes/farm-leases.ts",
-      "bytes": 12028,
-      "sha256": "27069a949d55fc6ba63f7fa848c3822ce561d5035ac42198bc00ae5d3e57ad06"
+      "bytes": 12447,
+      "sha256": "85609eaac02c1099c0d841950b05de8ce7486286839e095a152b923401a589fb"
     },
     {
       "path": "src/routes/farm-market.ts",
@@ -756,5 +756,7 @@
       "bytes": 876,
       "sha256": "852ac8e20db6fced849c863048c71741ec76ff14a06e05dba4b01e254909f573"
     }
-  ]
+  ],
+  "updated_at": "2026-10-27T04:21:03.682Z",
+  "worker_version": "8405a072-d864-461a-8145-d59dfa737a7f"
 }

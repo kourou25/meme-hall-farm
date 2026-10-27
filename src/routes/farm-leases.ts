@@ -34,7 +34,9 @@ farmLeases.get('/api/farm/leases/market',async c=>{
  const idle=(await db.prepare(`SELECT f.user_id AS owner_id,f.owner_operated_at,u.username AS name,f.state FROM farm_saves f JOIN users u ON u.id=f.user_id WHERE (f.owner_operated_at,f.user_id)>(?,?) AND f.user_id<>? AND f.owner_operated_at<=? AND u.disabled=0 AND u.kind='user' AND NOT EXISTS(SELECT 1 FROM account_retirements WHERE source_id=f.user_id) ORDER BY f.owner_operated_at,f.user_id LIMIT 21`).bind(afterTime,afterId,u.id,t-LEASE_IDLE).all<{owner_id:number;owner_operated_at:number;name:string;state:string}>()).results
  const candidates=[...offered.flatMap(o=>{const p=(JSON.parse(o.state) as FarmState).plots[o.plot];return p&&!p.crop?[{owner_id:o.owner_id,name:o.name,plot:o.plot,price:o.price,days:o.days,forced:false}]:[]}),...idle.slice(0,20).flatMap(o=>(JSON.parse(o.state) as FarmState).plots.flatMap((p,plot)=>!p.crop?[{owner_id:o.owner_id,name:o.name,plot,...LEASE_DEFAULT,forced:true}]:[]))]
  const ids=[...new Set(candidates.map(x=>x.owner_id))],locks=ids.length?(await db.prepare(`SELECT owner_id,plot FROM farm_leases WHERE owner_id IN(${ids.map(()=>'?').join(',')}) AND state='active'`).bind(...ids).all<{owner_id:number;plot:number}>()).results:[]
- const unavailable=new Set(locks.map(x=>x.owner_id+':'+x.plot)),seen=new Set<string>(),items=candidates.filter(x=>{const key=x.owner_id+':'+x.plot;if(unavailable.has(key)||seen.has(key))return false;seen.add(key);return true})
+ const reclaimed=ids.length?(await db.prepare(`SELECT DISTINCT owner_id,plot FROM farm_lease_buybacks WHERE owner_id IN(${ids.map(()=>'?').join(',')})`).bind(...ids).all<{owner_id:number;plot:number}>()).results:[]
+ const protectedPlots=new Set(reclaimed.map(x=>x.owner_id+':'+x.plot))
+ const unavailable=new Set(locks.map(x=>x.owner_id+':'+x.plot)),seen=new Set<string>(),items=candidates.filter(x=>{const key=x.owner_id+':'+x.plot;if(unavailable.has(key)||seen.has(key)||(x.forced&&protectedPlots.has(key)))return false;seen.add(key);return true})
  return c.json({items,next:idle.length>20?idle[19].owner_operated_at+'.'+idle[19].owner_id:null,server_time:t})
 })
 farmLeases.post('/api/farm/leases/offer',async c=>{
@@ -72,6 +74,7 @@ farmLeases.post('/api/farm/leases/rent',async c=>{
    AND EXISTS(SELECT 1 FROM coin52_wallets WHERE user_id=?3 AND revision=?13 AND balance>=?5)
    AND EXISTS(SELECT 1 FROM coin52_wallets WHERE user_id=?2 AND balance<=9007199254740991-?5)
    AND (?8=1 OR EXISTS(SELECT 1 FROM farm_lease_offers WHERE owner_id=?2 AND plot=?4 AND price=?5 AND days=?14))
+   AND (?8=0 OR NOT EXISTS(SELECT 1 FROM farm_lease_buybacks WHERE owner_id=?2 AND plot=?4))
    AND NOT EXISTS(SELECT 1 FROM farm_leases WHERE owner_id=?2 AND plot=?4 AND state='active') RETURNING id`)
    .bind(id,owner,u.id,plot,offer.price,t,expires,b.forced?1:0,JSON.stringify(emptyLeasePlot()),attempt,ownerRow!.revision,tenant.revision,tenant.wallet_revision,offer.days),
   db.prepare(`INSERT INTO coin52_ledger(user_id,kind,ref,attempt,delta,balance_after,created_at) SELECT user_id,CASE WHEN user_id=? THEN 'farm-rent-pay' ELSE 'farm-rent-income' END,?,?,CASE WHEN user_id=? THEN -? ELSE ? END,balance+CASE WHEN user_id=? THEN -? ELSE ? END,? FROM coin52_wallets WHERE user_id IN(?,?) AND ${gate}`)
